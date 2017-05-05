@@ -1,0 +1,90 @@
+﻿Titulo: Los investigadores dan un paso hacia los robots controlados por la mente
+
+
+¿Y si tu amigo el robot pudiera decir lo que estás pensando, sin que digas una palabra?
+
+Los investigadores del Laboratorio de Informática y Inteligencia Artificial del MIT y de la Universidad de Boston han creado un sistema en el que los humanos pueden guiar a los robots con sus ondas cerebrales. Esto puede sonar como una teoría de una novela de ciencia ficción, pero el objetivo de la interacción sin fisuras humano-robot es la próxima gran frontera para la investigación robótica.
+
+_______________________________________________________________
+
+Por ahora, el sistema MIT sólo puede manejar actividades binarias simples como corregir un robot mientras clasifica los objetos en dos cajas, pero la Directora de CSAIL, Daniela Rus, ve un futuro en el que un día podríamos controlar los robots de formas más naturales, en lugar de tener que programar Para tareas específicas, como permitir que un supervisor en un piso de fábrica controle un robot sin pulsar nunca un botón.
+
+"Imagina que miras a los robots, y en algún momento un robot no está haciendo el trabajo correctamente", explicó Rus. "Pensarás eso, tendrás ese pensamiento, ya través de esta detección te comunicarías de forma remota con el robot para decir 'parar'. "
+
+Rus admite que el desarrollo del MIT es un paso importante, pero dice que es un paso importante hacia la mejora de la interacción entre humanos y robots.
+
+Actualmente, la mayoría de la comunicación con robots requiere pensar de una manera particular que las computadoras pueden reconocer o vocalizar una orden, lo cual puede ser agotador.
+
+"Nos gustaría cambiar el paradigma", dijo Rus. "Nos gustaría que el robot se adaptara al lenguaje humano".
+
+El trabajo del MIT muestra que es posible que un robot lea su mente - al menos cuando se trata de una tarea súper simplista. Y Andrés Salazar-Gómez, un doctorado de la Universidad de Boston Candidato que trabaja con el equipo de investigación de CSAIL, dice que este sistema podría un día ayudar a las personas que no pueden comunicarse verbalmente.
+
+Conoce a Baxter
+
+Para este estudio, los investigadores del MIT utilizaron un robot llamado Baxter de Rethink Robotics.
+
+Baxter tenía una tarea sencilla: poner una lata de pintura en aerosol en la caja marcada con "pintura" y un carrete de alambre en la caja con la etiqueta "alambre". Un voluntario conectado a una tapa EEG, que lee la actividad eléctrica en el cerebro, se sentó frente a Baxter, y lo observó haciendo su trabajo. Si se dieran cuenta de un error, naturalmente emitirían una señal cerebral conocida como un "potencial relacionado con el error".
+
+"Puedes usar [esa señal] para decirle a un robot que se detenga o puedes usarlo para alterar la acción del robot", explicó Rus.
+
+El sistema entonces traduce esa señal del cerebro a Baxter, así que él entiende que él está mal, sus mejillas se ruborizan para mostrar que él es avergonzado, y él corrige su comportamiento.
+
+El sistema MIT identificó correctamente la señal cerebral del voluntario y luego corrigió el comportamiento del robot el 70 por ciento del tiempo.
+
+Haciendo que los robots sean "colaboradores"
+
+"Creo que este es un trabajo emocionante", dijo Bin He, un ingeniero biomédico de la Universidad de Minnesota, quien publicó un documento en diciembre que mostró que la gente puede controlar un brazo robótico con sus mentes.
+
+No estaba afiliado a la investigación del MIT, pero ve esto como una aplicación "inteligente" en un campo cada vez más incipiente.
+
+Los investigadores dicen que hay un deseo cada vez mayor de encontrar maneras de hacer a los robots "colaboradores eficaces", no sólo los siervos obedientes.
+
+
+"Un aspecto clave de la colaboración es poder ... saber cuándo comete un error", dijo Siddhartha Srinivasa, una profesora de la Universidad Carnegie Mellon que no estaba afiliada al estudio del MIT. "Lo que este documento muestra es cómo se puede utilizar la intuición humana para arrancar el correa de aprendizaje de un robot de lo que su mundo se parece y cómo se puede saber de lo correcto de lo malo".
+
+Srinivasa dice que esta investigación podría tener implicaciones clave para las prótesis, pero advierte que es un "primer paso excelente hacia la solución de un problema más difícil y mucho más complicado".
+
+"Hay una larga línea gris entre no cometer un error y cometer un error", dijo Srinivasa. "Ser capaz de decodificar más de la actividad neuronal ... es realmente crítico".
+
+Y Srinivasa dice que es un tema que más científicos necesitan explorar.
+
+Potenciales aplicaciones del mundo real
+
+Rus del MIT imagina un futuro donde cualquiera puede comunicarse con un robot sin ningún tipo de entrenamiento - un mundo en el que esta tecnología podría ayudar a conducir un automóvil o limpiar su casa.
+
+"Imagínese ... que su robot recoja todos los juguetes y calcetines del suelo, y quiere que el robot ponga los calcetines en el calcetín y coloque los juguetes en el cubo de juguete", dijo.
+
+Ella dice que le ahorraría mucho tiempo, pero por ahora el limpiador mecánico de la casa que puede leer su mente sigue siendo un sueño.
+
+
+
+
+Fuente: http://www.npr.org/sections/alltechconsidered/2017/03/08/519235038/researchers-take-a-step-toward-mind-controlled-robots
+
+Youtube: https://youtu.be/Zd9WhJPa2Ok
+
+Fecha: 08.03.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
