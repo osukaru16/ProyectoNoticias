@@ -1,43 +1,49 @@
-﻿Titulo: La NASA le da a Rover un explorador inspirado en Origami
+﻿Titulo: Freaky Ostrich-como robot de ejecución construido para la "exploración planetaria" 
 
 
-La NASA ha comenzado a probar un robot explorador inspirado en origami que se utilizará para explorar la superficie marciana.
+Puede parecerse a un avestruz galope sobre el suelo, pero el Planar Elliptical Runner podría convertirse en el modelo de un robot de tamaño humano - e incluso ayudar a "la exploración planetaria".
 
-Las misiones de exploración de Marte han ganado fuerza en los últimos años, y las agencias espaciales están desarrollando nuevos rovers y robots que pueden permitir a los científicos reunir más detalles del Planeta Rojo.
+Desarrollado por el Instituto de Cognición Humana y de Máquina (IHMC) en Pensacola, Florida, la locomoción fluida de la máquina ha hecho comparaciones con el ave sin vuelo.
 
-____________________________________________________________
-
-
-PUFFER: Un Nuevo Robot Scout
-
-Robot o PUFFER de Explorador de Plegado Plano Pop-Up ha sido desarrollado por el Laboratorio de Propulsión a Chorro (JPL) de la NASA en Pasadena, California.
-
-Este dispositivo fue presentado por Jaakko Karras, quien es el gerente de proyecto de PUFFER en JPL, mientras estaba probando los diseños de origami. Karras y sus asociados pensaron en usar una placa de circuito impreso mientras creaban estos dispositivos.
-
-PUFFER incluye una estructura ligera y está hecha de tal manera que puede doblar sus ruedas, aplastarse y explorar lugares, a los que un típico rover no puede acceder.
-
-Características de PUFFER
-
-El robot scout ha sido probado bajo variadas condiciones accidentadas, empezando desde el desierto de Mojave en California hasta las planicies congeladas de la Antártida. Se puso a través de estas pruebas para asegurar su funcionalidad en todo tipo de terreno, ya sea cubierto de arena o cargado de nieve.
-
-Originalmente, este dispositivo consistía en cuatro ruedas, pero en la actualidad sólo tiene dos ruedas que son plegables. El plegado de la rueda sobre el cuerpo permite a la máquina rodar y gatear.
-
-También consiste en una cola que se hace para la estabilidad. El robot incluye un "microimagen", que es una cámara de alta resolución, y los paneles solares se colocan en el vientre del PUFFER. La máquina se vuelca cuando las pilas están agotadas.
-
-PUFFER puede subir hasta 45 pendientes de grado e incluso puede caer en los cráteres y hoyos ilesos. El robot es considerado un fuerte asistente para grandes dispositivos robóticos que serán enviados a Marte en el corto plazo.
-
-"Pueden hacer la ciencia paralela con un rover, por lo que puede aumentar la cantidad que está haciendo en un día. Podemos ver estos que se utilizan en lugares difíciles de alcanzar - por ejemplo, exprimiendo debajo de bordes", dijo Karras.
-
-Otro miembro del grupo PUFFER, Christine Fullera en JPL, dijo que el cuerpo y la electrónica de PUFFER implican una placa de circuito. No hay sujetadores que escalen o cualquier otra parte, que se unen a él. El robot tiene un cuerpo integrado.
-
-El equipo ha construido una muestra de PUFFER y ya ha comenzado a probarlo durante los últimos meses. Los funcionarios del proyecto PUFFER han dicho que este dispositivo aún no está listo. Planean dar al robot más autonomía incluyendo instrumentos científicos como el engranaje, que identifica las moléculas orgánicas que contienen carbono.
+En declaraciones a Digital Trends, el asociado de investigación Johnny Godowski dijo: "Está emulando lo que se ve en la naturaleza. Las aves son capaces de correr sobre los agujeros y los obstáculos la mitad de la altura de sus piernas, y ni siquiera romper el paso. Nuestro mecanismo de robot está diseñado para hacer lo mismo ".
 
 
-Fuentes:  http://www.techtimes.com/articles/202711/20170323/nasa-testing-origami-inspired-robot-scout-for-exploring-mars.htm
 
-Youtube: https://youtu.be/nRmorQmGqVM
+A diferencia de otros robots de dos patas, no utiliza sensores informáticos para equilibrarse. En su lugar, un solo motor impulsa las dos piernas de la máquina, mientras que un movimiento de lado a lado lo mantiene en posición vertical. El robot también es guiado por un controlador de radio estándar, lo que significa que no pierde la energía de la batería.
 
-fecha: 15.03.2017
+El robot puede alcanzar velocidades de hasta 10 mph (16 km / h), pero los investigadores creen que una máquina de tamaño humano podría alcanzar un día velocidades de hasta tres veces la de su contraparte más pequeña.
+
+
+
+Jerry Pratt, investigador principal de IMHC, dijo a Technology Review: "Creemos que las lecciones aprendidas de este robot pueden aplicarse a robots más prácticos para hacerlos más eficientes y naturales.
+
+"Los robots con las piernas serán particularmente útiles en los lugares donde usted quiere una presencia humana, pero es demasiado peligroso, costoso, o alejado para enviar a un ser humano verdadero. Algunos ejemplos son el desmantelamiento de centrales nucleares y la exploración planetaria ".
+
+En 2013, Pratt lideró un equipo al segundo lugar en el DARPA Robotics Challenge, un concurso del Departamento de Defensa de Estados Unidos que prueba las habilidades de los robots para realizar una serie de tareas en entornos extremos.
+
+Otras firmas de robótica esperan hacer avances con sus propias máquinas de dos y cuatro patas.
+
+En febrero, Agility Robotics dio a conocer a Cassie, otra creación bípeda inspirada en avestruces, mientras que Honda continúa comercializando su robot humanoide ASIMO.
+
+Mientras tanto, el equipo de Pratt está trabajando en una serie de proyectos bípedos. IMHC mostró estos avances en su anual Robotics Open House en Florida el mes pasado.
+
+
+
+Fuentes: https://www.rt.com/viral/387152-robot-running-humanoid-exploration/
+
+Youtube1: https://youtu.be/q4nvpZ6WL3U
+
+Youtube2: https://youtu.be/Wa0amJmJ550
+
+Youtube3: https://youtu.be/M6HZxXoXUoo
+
+Fecha: 06.05.2017
+
+
+
+
+
+
 
 
 

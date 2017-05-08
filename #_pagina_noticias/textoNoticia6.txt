@@ -1,67 +1,90 @@
-﻿Titulo: Los robots "curiosos" en busca de los secretos del océano
+﻿Titulo: Los investigadores dan un paso hacia los robots controlados por la mente
+
+
+¿Y si tu amigo el robot pudiera decir lo que estás pensando, sin que digas una palabra?
+
+Los investigadores del Laboratorio de Informática y Inteligencia Artificial del MIT y de la Universidad de Boston han creado un sistema en el que los humanos pueden guiar a los robots con sus ondas cerebrales. Esto puede sonar como una teoría de una novela de ciencia ficción, pero el objetivo de la interacción sin fisuras humano-robot es la próxima gran frontera para la investigación robótica.
+
+_______________________________________________________________
+
+Por ahora, el sistema MIT sólo puede manejar actividades binarias simples como corregir un robot mientras clasifica los objetos en dos cajas, pero la Directora de CSAIL, Daniela Rus, ve un futuro en el que un día podríamos controlar los robots de formas más naturales, en lugar de tener que programar Para tareas específicas, como permitir que un supervisor en un piso de fábrica controle un robot sin pulsar nunca un botón.
+
+"Imagina que miras a los robots, y en algún momento un robot no está haciendo el trabajo correctamente", explicó Rus. "Pensarás eso, tendrás ese pensamiento, ya través de esta detección te comunicarías de forma remota con el robot para decir 'parar'. "
+
+Rus admite que el desarrollo del MIT es un paso importante, pero dice que es un paso importante hacia la mejora de la interacción entre humanos y robots.
+
+Actualmente, la mayoría de la comunicación con robots requiere pensar de una manera particular que las computadoras pueden reconocer o vocalizar una orden, lo cual puede ser agotador.
+
+"Nos gustaría cambiar el paradigma", dijo Rus. "Nos gustaría que el robot se adaptara al lenguaje humano".
+
+El trabajo del MIT muestra que es posible que un robot lea su mente - al menos cuando se trata de una tarea súper simplista. Y Andrés Salazar-Gómez, un doctorado de la Universidad de Boston Candidato que trabaja con el equipo de investigación de CSAIL, dice que este sistema podría un día ayudar a las personas que no pueden comunicarse verbalmente.
+
+Conoce a Baxter
+
+Para este estudio, los investigadores del MIT utilizaron un robot llamado Baxter de Rethink Robotics.
+
+Baxter tenía una tarea sencilla: poner una lata de pintura en aerosol en la caja marcada con "pintura" y un carrete de alambre en la caja con la etiqueta "alambre". Un voluntario conectado a una tapa EEG, que lee la actividad eléctrica en el cerebro, se sentó frente a Baxter, y lo observó haciendo su trabajo. Si se dieran cuenta de un error, naturalmente emitirían una señal cerebral conocida como un "potencial relacionado con el error".
+
+"Puedes usar [esa señal] para decirle a un robot que se detenga o puedes usarlo para alterar la acción del robot", explicó Rus.
+
+El sistema entonces traduce esa señal del cerebro a Baxter, así que él entiende que él está mal, sus mejillas se ruborizan para mostrar que él es avergonzado, y él corrige su comportamiento.
+
+El sistema MIT identificó correctamente la señal cerebral del voluntario y luego corrigió el comportamiento del robot el 70 por ciento del tiempo.
+
+Haciendo que los robots sean "colaboradores"
+
+"Creo que este es un trabajo emocionante", dijo Bin He, un ingeniero biomédico de la Universidad de Minnesota, quien publicó un documento en diciembre que mostró que la gente puede controlar un brazo robótico con sus mentes.
+
+No estaba afiliado a la investigación del MIT, pero ve esto como una aplicación "inteligente" en un campo cada vez más incipiente.
+
+Los investigadores dicen que hay un deseo cada vez mayor de encontrar maneras de hacer a los robots "colaboradores eficaces", no sólo los siervos obedientes.
+
+
+"Un aspecto clave de la colaboración es poder ... saber cuándo comete un error", dijo Siddhartha Srinivasa, una profesora de la Universidad Carnegie Mellon que no estaba afiliada al estudio del MIT. "Lo que este documento muestra es cómo se puede utilizar la intuición humana para arrancar el correa de aprendizaje de un robot de lo que su mundo se parece y cómo se puede saber de lo correcto de lo malo".
+
+Srinivasa dice que esta investigación podría tener implicaciones clave para las prótesis, pero advierte que es un "primer paso excelente hacia la solución de un problema más difícil y mucho más complicado".
+
+"Hay una larga línea gris entre no cometer un error y cometer un error", dijo Srinivasa. "Ser capaz de decodificar más de la actividad neuronal ... es realmente crítico".
+
+Y Srinivasa dice que es un tema que más científicos necesitan explorar.
+
+Potenciales aplicaciones del mundo real
+
+Rus del MIT imagina un futuro donde cualquiera puede comunicarse con un robot sin ningún tipo de entrenamiento - un mundo en el que esta tecnología podría ayudar a conducir un automóvil o limpiar su casa.
+
+"Imagínese ... que su robot recoja todos los juguetes y calcetines del suelo, y quiere que el robot ponga los calcetines en el calcetín y coloque los juguetes en el cubo de juguete", dijo.
+
+Ella dice que le ahorraría mucho tiempo, pero por ahora el limpiador mecánico de la casa que puede leer su mente sigue siendo un sueño.
 
 
 
-Limpiar:{
-La gente ha estado explorando la Tierra desde tiempos antiguos: atravesando desiertos, escalando montañas y caminando por los bosques. Pero hay un reino ecológico que aún no ha sido bien explorado: los océanos. Hasta la fecha, sólo el 5% de los océanos de la Tierra han sido vistos por ojos humanos o por robots controlados por humanos.
 
-Eso está cambiando rápidamente gracias a los avances en las tecnologías robóticas. En particular, una nueva clase de robots autocontrolados que se adaptan continuamente a su entorno está abriendo la puerta al descubrimiento submarino. Estas máquinas autónomas, "curiosas", pueden buscar eficientemente características submarinas específicas tales como organismos marinos y paisajes, pero también están programadas para mantener un ojo hacia fuera para otras cosas interesantes que pueden aparecer inesperadamente.
+Fuente: http://www.npr.org/sections/alltechconsidered/2017/03/08/519235038/researchers-take-a-step-toward-mind-controlled-robots
 
-Los robots curiosos -que pueden ser prácticamente cualquier tamaño o forma- utilizan sensores y cámaras para guiar sus movimientos. Los sensores toman sonar, profundidad, temperatura, salinidad y otras lecturas, mientras que las cámaras envían constantemente imágenes de lo que están viendo en forma comprimida y de baja resolución a los operadores humanos. Si una imagen muestra algo diferente a la función que un robot estaba programado para explorar, el operador puede darle al robot la autorización para revisar y ver más detalladamente.
+Youtube: https://youtu.be/Zd9WhJPa2Ok
 
-El campo de robots submarinos autónomos es relativamente joven, pero el método de exploración de robots curiosos ya ha llevado a algunos descubrimientos bastante interesantes, dice Hanumant Singh, un físico oceánico e ingeniero en Woods Hole Oceanographic Institution en Massachusetts. En 2015, él y un equipo de investigadores emprendieron una expedición para estudiar criaturas que vivían en Hannibal Seamount, una cadena montañosa submarina de la costa de Panamá. Enviaron a un curioso robot al fondo marino de su "submarino tripulado" -una versión moderna del clásico submarino amarillo Jacques Cousteau- para tomar fotos y videos y recolectar organismos vivos en varias inmersiones en el transcurso de 21 días.
-
-En el buceo final de la expedición, el robot detectó una anomalía en el fondo marino, y envió varias fotos de baja resolución de lo que parecía fuzz rojo en una zona de oxígeno muy baja. "Los operadores del robot pensaron que lo que estaba en la imagen podría ser interesante, así que lo enviaron a la función para tomar más fotos", dice Singh. -Gracias al curioso robot, pudimos decir que eran cangrejos, una manada entera de ellos.
-
-El equipo utilizó submarinos para capturar varios cangrejos vivos, que posteriormente fueron identificados mediante secuenciación de ADN como Pleuroncodes planipes, comúnmente conocidos como cangrejos rojos pelágicos, una especie nativa de Baja California. Singh dice que era extremadamente raro encontrar los cangrejos hasta ahora al sur de su rango normal y en una abundancia tan alta, reunidos como un enjambre de insectos. Debido a que los cangrejos sirven como una fuente importante de alimento para los depredadores de mar abierto en el Pacífico oriental, los investigadores creen que los cangrejos pueden ser una fuente de alimento no detectada para los depredadores en el monte submarino de Hannibal.
-
-Cuando la tecnología autónoma de robots se desarrolló hace 15 años, Singh dice que él y otros científicos estaban construyendo robots y software de robótica desde cero. Hoy en día existe una gran variedad de interfaces de programación, algunas de las cuales son de código abierto, lo que facilita un poco más el trabajo de los científicos. Ahora sólo tienen que construir el robot mismo, instalar algún software y afinar algunos algoritmos para ajustarse a sus objetivos de investigación.
-
-"Para explorar y mapear eficientemente nuestros océanos, los robots inteligentes ... son una necesidad".
-
-Aunque curiosos sistemas de software de robot varían, Girdhar dice que algunos de los aspectos básicos siguen siendo los mismos. Todos los robots curiosos necesitan recolectar datos, y lo hacen con su capacidad de entender diferentes escenas submarinas sin supervisión. Esto implica "enseñar" a los robots a detectar una clase dada de características oceánicas, como diferentes tipos de peces, corales o sedimentos. Los robots también deben ser capaces de detectar anomalías en su contexto, siguiendo un camino que equilibra su misión programada con su propia curiosidad.
-
-Este método de detección es diferente de los robots submarinos tradicionales, los cuales están preprogramados para seguir solo un camino de exploración y buscar una característica o un conjunto de características, ignorando las anomalías o cambiando las condiciones oceánicas. Un ejemplo de un robot tradicional es Jason, un "ROV controlado por el hombre" o un vehículo operado remotamente, utilizado por científicos en Woods Hole para estudiar el fondo marino.
-
-Los científicos marinos ven robots curiosos como un camino claro hacia adelante. "Para explorar y mapear eficientemente nuestros océanos, los robots inteligentes con habilidades para deliberar datos de sensores y tomar decisiones inteligentes son una necesidad", dice Øyvind Ødegård, un arqueólogo y doctorado marino. Candidato en el Centro de Operaciones y Sistemas Marinos Autónomos de la Universidad Noruega de Ciencia y Tecnología.
-
-Ødegård utiliza robots para detectar e investigar naufragios, a menudo en lugares demasiado peligrosos para que los buceadores humanos exploren, como el Ártico. Otros científicos submarinos en campos como la biología y la química están comenzando a utilizar robots curiosos para hacer cosas como mo
+Fecha: 08.03.2017
 
 
 
 
 
-En comparación con otros robots submarinos, dice Ødegård, los robots curiosos autónomos son los más adecuados para la exploración a largo plazo. Para misiones más cortas en ambientes marinos ya explorados, es posible preprogramar robots para hacer frente a situaciones predecibles, dice Ødegård. Sin embargo, "para misiones más largas, con conocimientos previos limitados sobre el medio ambiente, tales predicciones se hacen cada vez más difíciles de hacer. El robot debe tener habilidades deliberativas o "inteligencia" que sean lo suficientemente robustas para hacer frente a eventos imprevistos de una manera que asegure su propia seguridad y también los objetivos de la misión ". Un gran desafío es enviar grandes cantidades de datos a los operadores humanos en real hora. El agua inhibe el movimiento de señales electromagnéticas como el GPS, por lo que los robots curiosos sólo pueden comunicarse en pequeños fragmentos de datos. De acuerdo con Singh, un próximo paso en la curiosa tecnología robótica es enseñar a los robots a trabajar en tándem con drones para dar a los científicos imágenes de hielo marino tanto de arriba como de abajo . Otra es la enseñanza de los robots para hacer frente a diferentes especies sesgos. Por ejemplo, los robots asustan a algunos peces y atraen a otros -y esto podría causar anomalías en los datos, haciendo que algunas especies parezcan menos o más abundantes de lo que realmente son. Ødegård añade que los nuevos desarrollos en los programas de robótica podrían permitir incluso a los científicos sin antecedentes en robótica Oportunidad de aprovechar los beneficios de la investigación robótica. "Espero que veamos robots más asequibles que bajen el umbral para jugar con ellos y tomar riesgos", dice. "De esta manera será más fácil encontrar maneras nuevas e innovadoras de usarlas.
-
-
-"Para explorar y mapear eficientemente nuestros océanos, los robots inteligentes ... son una necesidad".
-
-Aunque curiosos sistemas de software de robot varían, Girdhar dice que algunos de los aspectos básicos siguen siendo los mismos. Todos los robots curiosos necesitan recolectar datos, y lo hacen con su capacidad de entender diferentes escenas submarinas sin supervisión. Esto implica "enseñar" a los robots a detectar una clase dada de características oceánicas, como diferentes tipos de peces, corales o sedimentos. Los robots también deben ser capaces de detectar anomalías en su contexto, siguiendo un camino que equilibra su misión programada con su propia curiosidad.
-
-Este método de detección es diferente de los robots submarinos tradicionales, los cuales están preprogramados para seguir solo un camino de exploración y buscar una característica o un conjunto de características, ignorando las anomalías o cambiando las condiciones oceánicas. Un ejemplo de un robot tradicional es Jason, un "ROV controlado por el hombre" o un vehículo operado remotamente, utilizado por científicos en Woods Hole para estudiar el fondo marino.
-
-Los científicos marinos ven robots curiosos como un camino claro hacia adelante. "Para explorar y mapear eficientemente nuestros océanos, los robots inteligentes con habilidades para deliberar datos de sensores y tomar decisiones inteligentes son una necesidad", dice Øyvind Ødegård, un arqueólogo y doctorado marino. Candidato en el Centro de Operaciones y Sistemas Marinos Autónomos de la Universidad Noruega de Ciencia y Tecnología.
-
-Ødegård utiliza robots para detectar e investigar naufragios, a menudo en lugares demasiado peligrosos para que los buceadores humanos exploren, como el Ártico. Otros científicos submarinos en campos como la biología y la química están comenzando a utilizar robots curiosos para hacer cosas como controlar los derrames de petróleo y la búsqueda de especies invasoras.
-
-En comparación con otros robots submarinos, dice Ødegård, robots autónomos curiosos son los más adecuados para la exploración a largo plazo. Para misiones más cortas en ambientes marinos ya explorados, es posible preprogramar robots para hacer frente a situaciones predecibles, dice Ødegård. Sin embargo, "para misiones más largas, con conocimientos previos limitados sobre el medio ambiente, tales predicciones se hacen cada vez más difíciles de hacer. El robot debe tener habilidades deliberativas o "inteligencia" que sea lo suficientemente robusta como para hacer frente a eventos imprevistos de una manera que asegure su propia seguridad y también los objetivos de la misión ".
-
-Un gran desafío es enviar grandes cantidades de datos a los operadores humanos en tiempo real. El agua inhibe el movimiento de señales electromagnéticas como el GPS, por lo que los robots curiosos sólo pueden comunicarse en pequeños fragmentos de datos. Ødegård dice que para superar este desafío, los científicos están buscando formas de optimizar el procesamiento de datos.
-
-Según Singh, un próximo paso en la curiosa tecnología robótica es enseñar a los robots a trabajar en tándem con drones para dar a los científicos imágenes de hielo marino de arriba y abajo. Otra es la enseñanza de los robots para hacer frente a diferentes especies sesgos. Por ejemplo, los robots asustan a algunos peces y atraen a otros, lo que podría causar anomalías en los datos, haciendo que algunas especies parezcan menos o más abundantes de lo que realmente son.
-
-Ødegård añade que los nuevos desarrollos en los programas de robótica podría permitir incluso a los científicos sin experiencia en robótica la oportunidad de aprovechar los beneficios de la investigación robótica. "Espero que veamos robots más asequibles que bajen el umbral para jugar con ellos y tomar riesgos", dice. "De esta manera será más fácil encontrar maneras nuevas e innovadoras de usarlas.
 
 
 
 
 
-}
 
 
-Fuente: https://www.theatlantic.com/technology/archive/2017/02/under-the-sea-3-p-o/517425/
 
-fecha: 23.02.2017
+
+
+
+
+
+
+
+
 
 
 

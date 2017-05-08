@@ -1,0 +1,41 @@
+﻿Titulo: Ghost Minitaur ™ Altamente Agile Direct-Drive Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre
+
+
+Ghost Robotics ha anunciado hoy que su Ghost Minitaur ™, con patente pendiente, ha sido actualizado con comportamientos reactivos avanzados para navegar la hierba, la roca, la arena, la nieve y los campos de hielo, los objetos urbanos Y escombros, y terreno vertical.
+
+______________________________________________________________
+
+
+Los últimos avances se adaptan de forma reactiva a los entornos no estructurados y dinámicos para mantener el equilibrio, ascender a pendientes pronunciadas (hasta 35º), manejar pasos de paso de trincheras hasta 15 cm de ancho, agacharse para encajar bajo espacios reducidos (hasta 27 cm) y Operan a velocidades variables y velocidades de giro. Las capacidades de alta fuerza de Minitaur le permiten saltar sobre salientes (hasta 40cm) y a través de huecos (hasta 80cm). Su ancho de banda de control alto le permite balancear activamente en dos piernas, y la operación de alta velocidad permite que sus patas manipulen el mundo más rápido que el parpadeo de un ojo, mientras reaccionan hábilmente a un contacto inesperado.
+
+Sigue leyendo
+Ghost Minitaur (TM) altamente ágil Direct-Drive cuadrúpedo demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre.
+
+"Nuestro principal objetivo desde la liberación de la Minitaur a finales del año pasado ha sido ampliar sus comportamientos para atravesar una amplia gama de terrenos y escenarios operativos del mundo real", dijo Gavin Kenneally, y Avik De, cofundadores de Ghost Robotics. "En poco tiempo, hemos demostrado que los robots con patas no sólo tienen una movilidad de línea de base superior sobre ruedas y vías en una variedad de entornos y terrenos, sino que también exhiben un conjunto diverso de comportamientos que les permiten superar con facilidad los obstáculos naturales. Para impulsar el envoltorio con capacidades futuras, hardware mejorado, así como sensores integrados y autonomía ".
+
+Ghost Robotics está diseñando robots legged de última generación que son superiores a los vehículos autónomos rodados y seguidos en aplicaciones de campo del mundo real, al tiempo que reduce sustancialmente los costos para impulsar la adopción y las implementaciones escalables. Su tecnología de transmisión directa crea el modelo de menor costo con durabilidad para la comercialización de plataformas de sensor UGV de tamaño muy pequeño a mediano con cualquier diseño competitivo. La investigación subyacente de la compañía y la propiedad intelectual tienen aplicaciones adicionales en manipuladores ultra-precisos que son humanos-seguros, y la investigación avanzada de la marcha.
+
+Mientras que una versión comercial del robot Ghost Minitaur ™ está programada para ser entregada en el futuro, la plataforma de desarrollo actual está en alta demanda y ha sido enviada a muchos de los mejores investigadores de robótica de todo el mundo debido a su simplicidad de diseño, Una amplia gama de iniciativas de investigación y comercialización.
+
+"Estamos complacidos con nuestro progreso de I + D hacia la comercialización del Ghost Minitaur ™ para demostrar que los robots con patas pueden superar el desempeño de las UGVs de rueda y vía, manteniendo el modelo de costo bajo para apoyar la adopción de volumen, lo cual ciertamente no es el caso de los bipedales y cuadrúpedos existentes. Robots vendedores ", dijo Jiren Parikh, Ghost Robotics, CEO.
+
+En los próximos trimestres, la compañía planea demostrar mejoras en la movilidad, capacidades de manipulación incorporadas para interactuar con objetos en el mundo, integración con más sensores, autonomía integrada para el funcionamiento con intervención humana reducida, así como mayor robustez mecánica Y la durabilidad para la operación en ambientes ásperos.
+
+Acerca de Ghost Robotics
+
+Robots que sienten el mundo ™. Ghost Robotics desarrolla robots con patas pendientes de patente, ultra-rápidas y altamente sensibles (sin caja de cambios) para aplicaciones instantáneas y precisas de realimentación de fuerzas, ofreciendo una operatividad superior sobre los robots con ruedas y rastreados. La plataforma robótica Ghost Minitaur ™, ligera y de bajo costo, puede utilizarse como vehículo autónomo equipado con sensores para ISR, búsqueda y rescate, gestión de activos e inspección, exploración, aplicaciones científicas y militares donde desconocido, áspero, variado, peligroso, ambientalmente sensible E incluso el terreno vertical está presente. Ghost Robotics es privada y respaldada por la Universidad de Pensilvania y PCI Ventures con oficinas en Filadelfia. www.ghostrobotics.io
+
+
+Fuente: http://www.prnewswire.com/news-releases/ghost-minitaur-highly-agile-direct-drive-quadruped-demonstrates-why-legged-robots-are-far-superior-to-wheels-and-tracks-when-venturing-outdoors-300414820.html
+
+Youtube: https://youtu.be/bnKOeMoibLg
+
+Fecha: 01.03.2017
+
+
+
+
+
+
+
+

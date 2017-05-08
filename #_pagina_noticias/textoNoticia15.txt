@@ -1,0 +1,37 @@
+﻿Titulo: Los legisladores llaman a detener el programa DARPA: Robots que reparan satélites
+
+Tres influyentes legisladores de la Cámara de Representantes han pedido a la DARPA en una carta del 25 de enero que revise un programa de reparación espacial robótica para ver si viola la Política Espacial Nacional al competir con esfuerzos del sector privado y poner el programa en espera hasta que se complete la revisión. . La Política Espacial Nacional requiere "que el gobierno no construya ni adquiera sistemas que" impidan, desalienten o compitan "con los sistemas comerciales. Orbital ATK está construyendo un sistema que cree que compite directamente con la iniciativa DARPA, conocida como Robotic Servicing of Geosynchronous Satellites.
+
+Es un programa intrigante. El objetivo de DARPA es desarrollar sistemas robóticos que puedan arreglar satélites dañados a 22.000 millas de distancia. En palabras de la página web del programa, estaría diseñado para "hacer llamadas a domicilio en el espacio".
+
+Pero el representante Jim Bridenstine, uno de los legisladores más activos en temas espaciales hoy (y posiblemente el próximo jefe de la NASA); La representante Barbara Comstock, presidenta del subcomité de Investigación y Tecnología de la Cámara de Ciencia, Espacio y Tecnología; Y el representante Rob Bishop, presidente del Comité de Recursos Naturales de la Cámara de Representantes, firmaron hoy una carta pidiendo al Director Interino de DARPA, Steven Walker, que revise RSGS para asegurar que cumple con el requisito de la Política Espacial Nacional de que el gobierno no construya ni compre sistemas que impidan, O competir "con los sistemas comerciales.
+
+El roce puede ser que Orbital-ATK ha invertido $ 100 millones en un sistema de este tipo, el Orbital Mission Extension Vehicle (MEV). En abril del año pasado, Orbital anunció que el gigante comercial de satélites Intelsat compraría el primero del sistema.
+
+El lanzamiento del primer MEV está programado para finales de 2018 con pruebas en órbita y demostración que se realizará con un satélite Intelsat. Las pruebas deben hacerse a principios de 2019, dijo el anuncio de Intelsat. "MEV-1 se trasladará al satélite Intelsat programado para el servicio de extensión de la misión, que está previsto para un período de cinco años. Intelsat también tendrá la opción de servicio de múltiples satélites utilizando el mismo MEV ", dice el anuncio.
+
+MEV es el producto de una subsidiaria de propiedad absoluta de ATB Orbital conocida como Space Logistics, LLC.
+
+Orbital lanzó esta declaración cuando escuchó que estaba escribiendo esto: "ATB Orbital tiene una fuerte preocupación con respecto al enfoque de programa de DARPA a su nuevo Servicio de Robótica de Satélite Geosincrónico (RSGS) programa, que distorsiona el mercado comercial emergente para el servicio de satélites en el espacio y viola Principios de larga data de la Política Espacial Nacional. El programa RSGS de DARPA subvencionará a una sola compañía con varios cientos de millones de dólares de hardware espacial y servicio de lanzamiento, cortesía del contribuyente estadounidense, para competir directamente con los sistemas comerciales de servicio por satélite que Orbital ATK y otras compañías están desarrollando con su propio capital privado. Aún peor, estimamos que DARPA proporcionará aproximadamente el 75% de la financiación del programa, pero conservará sólo alrededor del 10% de su capacidad, un uso altamente cuestionable e ineficiente de los fondos públicos ".
+
+La compañía también dice, como era de esperar, que "el enfoque de DARPA también viola tanto la letra como el espíritu de la Política Espacial Nacional de Estados Unidos".
+
+El programa DARPA tiene otra arruga interesante. La gente que inventó Internet quiere crear un Consorcio para la Ejecución de Operaciones de Rendezvous y Servicing (CONFERS), el cual serviría como "una ventanilla única y permanente" donde la industria puede colaborar y comprometerse con el gobierno de los Estados Unidos sobre En órbita de servicio, así como impulsar la creación de las normas que los futuros proveedores de servicios seguirá ", de acuerdo con Todd Master, el administrador del programa DARPA. "Estos estándares integrarían datos, experiencia y experiencia tanto del gobierno como de la industria, al mismo tiempo que protegerían los intereses financieros y estratégicos de los participantes comerciales, y proporcionarían a los inversionistas, aseguradores, clientes potenciales y otras partes interesadas la confianza para perseguir y participar en este prometedor nuevo sector . "Una vez en funcionamiento, DARPA planea" transferir "CONFERS a la industria antes de 2021, cuando se espera demostrar las capacidades de RSGS en el espacio.
+
+Como reportero espacial de larga data, y quien apuesta a la administración del presidente Donald Trump, favorecerá a la industria en vez del gobierno en la mayoría de los enfrentamientos, busque que DARPA pierda este - a menos que haya factores de los cuales soy ignorante.
+
+
+Fuente: http://breakingdefense.com/2017/01/lawmakers-call-for-halt-to-darpa-program/
+
+Youtube1: https://youtu.be/gShdrWSmbCs
+
+Youtube2: https://youtu.be/ynfnrCCun_k
+
+Fecha: 25.01.2017
+
+
+
+
+
+
+

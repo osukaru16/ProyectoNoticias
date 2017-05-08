@@ -1,0 +1,38 @@
+﻿Titulo: Los implantes permiten una comunicación más rica para las personas con parálisis
+
+
+La novela de ciencia ficción de John Scalzi, Lock In, predice un futuro cercano donde las personas con parálisis corporal completa pueden vivir vidas significativas y auténticas gracias a los avances (ficticios) en las interfaces cerebro-computadora. Un nuevo estudio realizado por investigadores de la Universidad de Stanford podría ser el primer paso hacia esa realidad.
+
+El uso de interfaces cerebro-computadora (BCI) para ayudar a las personas con parálisis a comunicarse no es completamente nuevo. Pero conseguir que la gente lo use para tener una conversación compleja es. Los participantes de este estudio fueron capaces de dar salida a las palabras a una velocidad mucho más rápida y precisa que nunca registrada gracias a la técnica avanzada.
+
+Los investigadores trabajaron con tres personas que experimentan una debilidad severa de los miembros, ya sea por esclerosis lateral amiotrófica (ALS), también llamada enfermedad de Lou Gehrig, o por una lesión de la médula espinal. Cada uno de ellos tenía una pequeña serie de electrodos o dos colocados en su cerebro para registrar las señales de una región en la corteza motora que controla el movimiento muscular. Con sólo un poco de entrenamiento, los participantes fueron capaces de dominar la interfaz de mecanografía. Un participante, Dennis Degray de Menlo Park, California, fue capaz de escribir ocho palabras por minuto con sólo su cerebro, una velocidad aproximada de mensajes de texto.
+
+Los investigadores utilizaron la nueva generación de BCI llamada BrainGate Neural Interface System, el primer dispositivo de este tipo que se coloca quirúrgicamente dentro de la cabeza de un paciente. Las pequeñas virutas tienen 100 electrodos que penetran el cerebro y pueden aprovechar las células nerviosas individuales, una mejora masiva en comparación con los sistemas más antiguos que sólo pueden medir las ondas cerebrales y el flujo sanguíneo subcutáneamente o desde el exterior del cuero cabelludo.
+
+Éste es solamente el primer paso a crear una vida mucho más conectada para ésos con ediciones motoras significativas. El equipo de investigadores espera un día, tal vez dentro de cinco años, cuando sistemas como este puedan ser utilizados para ayudar a las personas con parálisis a comunicarse significativamente con los demás.
+
+
+
+
+Fuente: https://www.engadget.com/2017/02/21/implants-enable-communication/
+
+Fecha: 21.02.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿Titulo: Qué sucede cuando los robots se convierten en modelos de rol
+
+
+
+Cuando usted pasa mucho tiempo con alguien, sus características pueden frotar en usted. Pero, ¿qué sucede cuando ese alguien es un robot?
+
+A medida que los sistemas de inteligencia artificial se vuelven cada vez más humanos, también mejoran sus capacidades de influir en las personas. New Scientist informa que los niños que pasan tiempo con un compañero robótico parecen recoger elementos de su comportamiento. Nuevos experimentos sugieren que cuando los niños juegan con un robot que es un go-getter real, por ejemplo, el niño adquiere parte de su incesante actitud de poder hacer.
+
+Otros investigadores están tratando de aprovechar los efectos similares en los adultos. Un grupo de la Universidad de Tecnología de Queensland está inscribiendo a un pequeño equipo de robots Nao humanoide de tamaño pintado para entrenar a la gente a comer sano. Espera que charlar a través de opciones de dieta con un robot, en lugar de registrar el consumo de calorías en un teléfono inteligente, será más eficaz en el cambio de hábitos. Podría funcionar: como nuestro propio Will Knight ha descubierto en el pasado, algunas interfaces AI de conversación pueden ser particularmente atractivas.
+
+Así como los robots personales cada vez más entrar en el hogar, los robots no sólo pueden hacer nuestra oferta-que también pueden convertirse en modelos a seguir, también. Y eso significa que debemos pisar con cuidado, porque mientras las historias anteriores sugieren las posibilidades de refuerzo positivo de los autómatas, otras sugieren posibles efectos negativos.
+
+Algunos padres, por ejemplo, se han quejado de que el asistente personal de Amazon Alexa está entrenando a sus hijos a ser grosero. Alexa no necesita que la gente diga por favor y gracias, tolerará contestar la misma pregunta una y otra vez y se mantendrá calmada frente a las rabietas. En resumen: no anima a los niños a interactuar con personas reales.
+
+El proceso puede fluir en ambos sentidos, por supuesto. Los investigadores de la Universidad de Stanford desarrollaron recientemente un robot que fue diseñado para recorrer las aceras, monitorear a los humanos y aprender a comportarse con ellos natural y apropiadamente. Pero como hemos visto en el caso del chatbot de Inteligencia Inteligente de Microsoft, Tay -que rápidamente se volvió grosero y antisemita cuando aprendió de los usuarios de Twitter- tomar pistas de la multitud no siempre juega bien.
+
+En realidad, todavía no hay una vía rápida para crear robots que sean socialmente inteligentes, sigue siendo uno de los grandes problemas no resueltos de la IA. Esto significa que los roboticistas deben escoger cuidadosamente los rasgos que desean estar presentes en sus máquinas, o bien arriesgarse a entregar ejércitos de mala influencia a nuestros hogares.
+
+
+
+
+
+
+Fuente: https://www.technologyreview.com/s/603708/what-happens-when-robots-become-role-models/
+
+
+
+
+Fecha: 22.02.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+﻿Titulo: Fabricador robótico podría cambiar la forma en que se construyen los edificios
+
+Un robot de construcción tiene que ser lo suficientemente potente como para manejar material pesado, lo suficientemente pequeño para entrar en edificios estándar, y lo suficientemente flexible como para navegar por el terreno.
+
+En la década de 1970, los robots revolucionaron la industria del automóvil, realizando una amplia gama de tareas de manera más fiable y rápida que los seres humanos. Más recientemente, una nueva generación de robots más suaves ha comenzado a surgir en líneas de producción en otras industrias. Estas máquinas son capaces de tareas más delicadas, fiddly como el embalaje de lechuga. Esta poderosa fuerza de trabajo nueva está destinada a revolucionar la manufactura de maneras que, hasta el momento, son difíciles de imaginar.
+
+Pero la industria de la construcción es más complicada que muchas otras. Los sitios de construcción son ambientes complejos que están cambiando constantemente. Cualquier robot tendría que ser lo suficientemente poderoso para manejar material pesado, pero lo suficientemente pequeño y ligero como para entrar en edificios estándar y lo suficientemente flexible como para navegar por el terreno.
+
+Es una gran pregunta, pero los beneficios potenciales son enormes. Los robots de construcción permitirían que nuevos tipos de estructuras complejas se ensamblaran in situ más que en fábricas distantes y luego se transportaran al sitio. Eso permite que se construyan nuevos tipos de estructuras, de hecho estas estructuras podrían modificarse en tiempo real para permitir cualquier cambio inesperado en el medio ambiente.
+
+Entonces, ¿cuál es el estado de la técnica para robots de construcción?
+
+Hoy recibimos una respuesta gracias al trabajo de Markus Giftthaler en la ETH Zurich en Suiza y algunos compañeros que han desarrollado una nueva clase de robot capaz de crear nuevas estructuras en un sitio de construcción. Ellos llaman a su nuevo robot el In Situ Fabricator1 y hoy muestran lo que es capaz de hacer.
+
+El In Situ Fabricator1 está diseñado de abajo hacia arriba para ser práctico. Puede fabricar material utilizando una gama de herramientas con una precisión de menos de cinco milímetros, está diseñado para operar de forma semi-autónoma en un entorno cambiante complejo, puede alcanzar la altura de una pared estándar y puede encajar a través de puertas normales. Y es polvo e impermeable, se escapa de la electricidad estándar, y tiene batería de respaldo. Además de todo esto, debe estar conectado a Internet para que un arquitecto puede hacer cambios en tiempo real a cualquier plan si es necesario.
+
+Estos son un conjunto complicado de objetivos, pero los que el In Situ Fabricator1 cumple en gran medida. Cuenta con un conjunto de cámaras para detectar su entorno y potentes procesadores integrados para navegar y planificar tareas. También cuenta con un brazo robótico flexible y potente para posicionar las herramientas de construcción.
+
+Para demostrar sus capacidades, Giftthaler y co lo han utilizado para construir un par de estructuras en un sitio de construcción experimental en Suiza llamado NEST (Next Evolution es Sustainable building Technologies). La primera es una pared de ladrillo ondulante de doble hoja de 6,5 metros de largo y dos metros de altura y hecha de 1.600 ladrillos.
+
+Incluso colocar tal muro correctamente en un sitio de construcción es una tarea difícil. In Situ Fabricator1 hace esto comparando el mapa del sitio de construcción que ha recogido de sus sensores con los planes del arquitecto. Pero aún así, debe tener la flexibilidad necesaria para permitir problemas imprevistos como el terreno irregular o la caída del material que cambia la forma de una estructura.
+
+"Para aprovechar al máximo los potenciales relacionados con el diseño de utilizar un robot de este tipo para la fabricación, es esencial hacer uso no sólo de las habilidades de manipulación de este robot, sino también utilizar la posibilidad de retroalimentar sus datos de detección en el entorno de diseño, "Dicen Giftthaler y co.
+
+La pared resultante, en la que todos los ladrillos están situados dentro de siete milímetros, es una estructura impresionante.
+
+La segunda tarea consistía en soldar los hilos entre sí para formar una malla de acero curvada y compleja que pudiera llenarse con hormigón. Una vez más, la flexibilidad de In Situ Fabricator1 resultó crucial. Un problema con la soldadura es que el proceso crea tensiones que pueden cambiar la forma total de la estructura de maneras impredecibles. Así que en cada etapa de la construcción, el robot debe evaluar la estructura y permitir cualquier cambio de forma como se suelda el siguiente conjunto de cables juntos. Una vez más, los resultados en NEST son impresionantes.
+
+In Situ Fabricator1 no es perfecto, por supuesto. Como un dispositivo de prueba de principio, Giftthaler y co lo utilizan para identificar las mejoras que pueden hacer a la próxima generación de robots de construcción. Uno de ellos es que en casi 1,5 toneladas métricas, In Situ Fabricator1 es demasiado pesado para entrar en muchos edificios estándar-500 kilogramos es el objetivo para futuras máquinas.
+
+Pero quizás el problema más importante es un límite práctico a la fuerza y ​​flexibilidad de los brazos robóticos. In Situ Fabricator1 es capaz de manipular objetos hasta aproximadamente 40 kilogramos, pero idealmente debería ser capaz de manejar objetos tan pesados ​​como 60 kilogramos.
+
+Pero eso lo empuja contra un límite práctico. In situ El brazo de Fabricator1 está controlado por motores eléctricos que son incapaces de manejar objetos más pesados ​​con el mismo nivel de precisión.
+
+
+Lo que es más, los motores eléctricos son notoriamente poco fiables en las condiciones que se encuentran en los sitios de construcción, por lo que la mayoría de la maquinaria pesada en estos sitios es hidráulica.
+
+Así que Giftthaler y co ya están trabajando en una solución. Estos chicos han diseñado y construido un actuador hidráulico que puede controlar un brazo robótico de próxima generación al manejar objetos más pesados ​​de forma más fiable y con la misma precisión. Ya están usando este diseño para construir el robot de construcción de próxima generación que llaman In Situ Fabricator2, que debería estar listo para finales de este año.
+
+Todo eso representa una promesa significativa para la industria de la construcción. Otros grupos han probado avances como la impresión en 3-D de nuevos edificios. Pero una limitación significativa de la impresión tridimensional es que el edificio no puede ser más grande que la impresora tridimensional. Así que un robot que puede construir cosas que son más grandes que sí es un avance útil.
+
+Pero hay un trabajo importante por delante. La industria de la construcción es naturalmente conservadora. El plazo relativamente largo en la creación de nuevos edificios (por no hablar de la burocracia que conlleva) hacen que sea difícil para las empresas de construcción para invertir en este tipo de enfoque de alta tecnología.
+
+Pero el trabajo de Giftthaler y co debe ayudar a superar esto y mostrar la capacidad de los robots para crear formas completamente nuevas de la estructura. Será interesante ver si pueden hacer para la industria de la construcción lo que los robots han hecho, y siguen haciendo, para los coches.
+
+
+
+
+
+Ref: arxiv.org/abs/1701.03573
+
+Fuente: https://www.technologyreview.com/s/603429/robotic-fabricator-could-change-the-way-buildings-are-constructed/
+
+
+Fecha: 24.01.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

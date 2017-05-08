@@ -1,0 +1,13 @@
+﻿Titulo: Nuevo robot de Boston Dynamics: Introducing Handle
+
+
+
+Handle es un robot de investigación de pie de 6,5 pies de altura, viaja a 9 mph y salta 4 pies verticalmente. Utiliza energía eléctrica para operar actuadores tanto eléctricos como hidráulicos, con un rango de aproximadamente 15 millas en una carga de batería. Handle utiliza muchos de los mismos principios de dinámica, equilibrio y manipulación móvil que se encuentran en los otros robots cuadrúpedos y bípedos de Boston Dynamics, pero con sólo alrededor de 10 juntas activadas, es significativamente menos complejo. Las ruedas son eficientes en superficies planas mientras que las piernas pueden ir casi dondequiera: combinando las ruedas y las piernas La manija puede tener el mejor de ambos mundos.
+
+___________________________________________________________________
+
+Fuente: http://robohub.org/boston-dynamics-newest-robot-introducing-handle/
+
+Youtube: https://youtu.be/-7xvqQeoA8c
+
+Fecha: 28.02.2017

@@ -1,0 +1,186 @@
+﻿Titulo: La edad del BIONIC BODY
+Cuando el Hombre de los Seis Millones de Dólares salió por primera vez en los años setenta, con su astronauta gravemente herido siendo reconstruido con partes de la máquina, el programa de televisión parecía una fantasía exagerada.
+
+Pero los avances rápidos de 40 años y la idea de un part-man, part-robot no parece tan extraordinario después de todo.
+
+La semana pasada, se informó que la ex policía Nicki Donnelly, de 33 años, paralizada desde la cintura después de que un conductor se estrelló contra su coche de policía, ahora es capaz de caminar a su hija a la escuela, gracias a un exoesqueleto robótico que camina por ella .
+
+Y hoy, el correo revela que los brazos robóticos controlados por el pensamiento se están desarrollando ahora en Gran Bretaña.
+
+Aquí, miramos las muchas maneras en que los científicos están utilizando la tecnología biónica para transformar la vida de los pacientes ...
+
+OJOS
+
+Para las personas con pérdida de la vista, hay esperanza de que un día podrían beneficiarse de la extraordinaria nueva tecnología para ayudarles a "ver" de nuevo.
+
+En diciembre pasado, diez pacientes con NHS ciego tuvieron su visión parcialmente restaurada usando un ojo biónico.
+
+Una mini cámara de vídeo montada en un par de gafas envió imágenes de forma inalámbrica a un chip de computadora conectado a la retina del paciente, el parche sensible a la luz en la parte posterior del ojo.
+
+El mundo que los pacientes ven a través del ojo biónico, llamado Argus II, es blanco y negro.
+
+Pueden detectar la luz y la oscuridad, las formas y los obstáculos, y aprender a ver el movimiento.
+
+Los objetos aparecen en el esquema, y ​​los ensayos realizados en el Moorfields Eye Hospital de Londres han demostrado que los pacientes pueden alcanzar y agarrar correctamente objetos familiares alrededor de la casa.
+
+También podían distinguir los coches en la calle y cruzar la carretera con seguridad a través de un cruce peatonal.
+
+Algunos pueden aprender a ver los números en un reloj o leer letras en letra grande.
+
+Esto es sólo el comienzo, dice el fabricante, firma estadounidense Second Sight. El reconocimiento facial y la visión 3D estarán disponibles con actualizaciones de software planificadas.
+
+CEREBRO
+
+Los implantes cerebrales se utilizan ahora para aprovechar el poder de la mente para ayudar a las personas que están paralizadas.
+
+Durante 100 años, se sabe que el cerebro produce ondas electromagnéticas que instruyen a los músculos del cuerpo a moverse.
+
+Ahora, esta comprensión se utiliza para acceder a los pensamientos de los pacientes y mover los músculos.
+
+La primera persona en beneficiarse fue un hombre americano, Johnny Ray, que tenía un síndrome de bloqueo y no podía comunicarse.
+
+En 1998, los científicos de la Universidad Emory de Atlanta implantaron electrodos en su cerebro y Ray pudo usar el poder de sus pensamientos para mover un cursor en una pantalla y seleccionar las letras, lo que le permitió hablar con el mundo exterior.
+
+El sistema, conocido como Brain-Computer Interface (BCI) ha sido refinado, por lo que las ondas cerebrales se pueden utilizar para hacer que el equipo mecánico se mueva.
+
+El año pasado, los comensales de un restaurante en Tubinga, Alemania, vieron una notable demostración de BCI.
+
+Varios pacientes en silla de ruedas que no tenían control de sus brazos o piernas llegaron a las mesas y utilizaron una mano biónica para recoger tazas y alimentarse con un tenedor.
+
+Para lograr esto, llevaban casquillos suaves equipados con 64 electrodos, capturando y transmitiendo ondas cerebrales procedentes de la región que controla los movimientos de las manos.
+
+Estas ondas cerebrales fueron recogidas por una computadora en las sillas de ruedas que convirtieron las ondas en señales eléctricas y las enviaron a un guante plástico de malla envuelto alrededor de una de las manos paralizadas del paciente.
+
+Esto les permitió abrir o cerrar el exoesqueleto biónico en respuesta a sus pensamientos.
+
+Sólo las señales simples se enviaron a la mano - porque recoger la actividad cerebral desde fuera del cráneo es difícil.
+
+"Es como escuchar un concierto fuera del salón", dijo el profesor Riccardo Poli, de la Escuela de Ciencias de la Computación y Ingeniería Electrónica de la Universidad de Essex.
+
+"La forma de obtener una señal más clara es abrir el cráneo e insertar un chip de computadora directamente en un área específica, pero esta operación invasiva aumenta el riesgo de infección y el chip podría desalojarse".
+
+Una manera alrededor de esto, que se está probando en la Universidad de Melbourne, es utilizar técnicas desarrolladas para insertar un stent en un vaso sanguíneo bloqueado, deslizando un chip de computadora del tamaño de un pequeño clip en un vaso sanguíneo en el área pertinente del cerebro.
+
+MANOS
+
+La tecnología del cerebro BCI pronto podría beneficiar a los pacientes con lesiones de la columna vertebral o que han tenido accidentes cerebrovasculares.
+
+Y lo que lo hace tan emocionante es que ahora hay pruebas que hacen que una mano paralizada se mueva regularmente durante varias semanas en un exoesqueleto impulsado por BCI puede reactivar nervios y músculos que no responden.
+
+"Permite a los pacientes ver la mano moverse y tal vez incluso sentirla", dice el Dr. Surjo Soekadar, que dirige el Laboratorio de Neurotecnología Aplicada en la Universidad de Tubingen en Alemania.
+
+"Esto puede despertar los nervios involucrados con el movimiento que había cerrado."
+
+En un estudio publicado en 2014, 32 sobrevivientes de un accidente cerebrovascular que no podían lavarse, vestirse o caminar sin ayuda ya no necesitaban ayuda después de tan sólo 20 sesiones de estimulación BCI.
+
+Pero no es simplemente que la tecnología BCI puede dirigir un exoesqueleto o guante.
+
+Hace cuatro años, un camionero de Suecia conocido como Magnus se convirtió en el primer paciente en el mundo que tenía una parte del cuerpo implantada controlada por el cerebro.
+
+Magnus tenía el brazo amputado por encima del codo como resultado de un cáncer.
+
+Hace cuatro años, tenía una prótesis con una mano mecánica implantada en el hueso restante por un equipo en el Hospital Universitario Sahlgrenska en Gothenberg.
+
+Una cirugía minuciosa conectó electrodos del brazo protésico a los nervios y músculos dedicados a su movimiento, de modo que cuando piensa en mover su mano, responde.
+
+"Pude volver a mi trabajo como conductor y operar maquinaria", dijo Magnus. En casa, puedo atar los cordones de los zapatos de mis hijos. Una actualización planificada, con sensores en la mano, pronto le permitirá percibir cómo se siente la cosa.
+
+OREJAS
+
+La creación de extremidades artificiales es relativamente simple en comparación con el reto de reemplazar o mejorar los órganos sensoriales, como el oído.
+
+El más exitoso hasta ahora ha sido el implante coclear, un reemplazo para la cóclea - la parte del oído interno donde los sonidos se convierten en señales eléctricas por 32.000 pequeñas células ciliadas y luego se envían al cerebro.
+
+En la versión biónica, un micrófono transforma los sonidos en impulsos digitales y sobre el cerebro.
+
+PIERNAS
+
+Los pacientes con piernas paralizadas ya están siendo ayudados a caminar de nuevo usando versiones mecánicas.
+
+En este momento, los dispositivos más sofisticados para el uso diario implican un exoesqueleto, como el dado a Nicki Donnelly.
+
+Llevando uno, se puede caminar a 1 mph con la ayuda de muletas, presionando botones en ellos para controlar el movimiento.
+
+Las piernas robóticas similares han sido desarrolladas por la unidad de la Neuro-Rehabilitación en la fundación de la universidad de la fundación de la universidad del este de Kent.
+
+Grueso y metálico, con espacio para las piernas dentro y pies planos y estables, no llevarán a un paciente en cualquier lugar rápido, pero, gracias al respaldo, no dejarán que caigan.
+
+"Estar en una silla de ruedas puede llevar a todo tipo de problemas", dice el director de la unidad, el Dr. Mohamed Sakel, refiriéndose a la forma en que la sangre puede unirse, lo que lleva a coágulos. Otras complicaciones son la osteoporosis.
+
+"En las piernas, los pacientes pueden ponerse de pie y hacer ejercicio de maneras que no pueden usar barras y similares", añade el Dr. Sakel.
+
+"También les permite moverse sin muletas, lo que significa que sus manos son libres para hacer las cosas".
+
+Se planea un sistema BCI que permita el control de las piernas con la mente.
+
+Mientras tanto, Michael Goldfarb, profesor de ingeniería mecánica, y su equipo en la Universidad Vanderbilt, Tennessee, tienen un plan más ambicioso.
+
+Están trabajando en las piernas mucho más cerca de las naturales, con articulaciones de la rodilla y el tobillo potencia, lo que permite al paciente subir y bajar escaleras y cruzar terreno irregular - sin embargo, no pesan más que una pierna normal.
+
+PÁNCREAS
+
+Las inyecciones de insulina han sido el principal tratamiento para las personas con diabetes tipo 1, que necesitan hasta cinco inyecciones al día. Ahora, hay una alternativa: el páncreas artificial.
+
+El papel del páncreas es producir insulina para limpiar el azúcar de la sangre y llevarlo a las células.
+
+Los científicos de Cambridge han desarrollado un dispositivo que puede monitorear el azúcar en la sangre y bombear la insulina según sea necesario - y mucho más precisamente que los pacientes.
+
+Esto ayuda a reducir el riesgo de hipoglucemia (niveles muy bajos de azúcar en la sangre).
+
+Un sensor insertado justo debajo de la piel del abdomen controla el azúcar en la sangre y envía información a una computadora, que puede calcular la cantidad de insulina que se necesita.
+
+Esta información se envía a una bomba que se lleva en un cinturón que inyecta insulina a través de un parche en la piel.
+
+Un estudio en el New England Journal of Medicine encontró que mejoró el control de la insulina en un 25 por ciento.
+
+El año pasado, 16 mujeres diabéticas británicas se convirtieron en las primeras en el mundo en pasar un embarazo con un páncreas artificial.
+
+Los ensayos más grandes son necesarios, pero se espera que el dispositivo podría estar disponible en el NHS dentro de dos años.
+
+
+Fuente: http://www.dailymail.co.uk/health/article-4197904/Is-age-BIONIC-BODY.html
+
+Video: http://www.dailymail.co.uk/health/article-4197904/Is-age-BIONIC-BODY.html#v-7845916231779663217
+
+
+
+Fecha: 06.02.2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

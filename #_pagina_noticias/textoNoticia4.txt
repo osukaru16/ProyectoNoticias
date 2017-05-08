@@ -1,38 +1,43 @@
-﻿Titulo: Ghost Minitaur ™ Altamente Agile Direct-Drive Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre
+﻿Titulo: La NASA le da a Rover un explorador inspirado en Origami
 
 
-Ghost Robotics ha anunciado hoy que su Ghost Minitaur ™, con patente pendiente, ha sido actualizado con comportamientos reactivos avanzados para navegar la hierba, la roca, la arena, la nieve y los campos de hielo, los objetos urbanos Y escombros, y terreno vertical.
+La NASA ha comenzado a probar un robot explorador inspirado en origami que se utilizará para explorar la superficie marciana.
 
-______________________________________________________________
+Las misiones de exploración de Marte han ganado fuerza en los últimos años, y las agencias espaciales están desarrollando nuevos rovers y robots que pueden permitir a los científicos reunir más detalles del Planeta Rojo.
 
-
-Los últimos avances se adaptan de forma reactiva a los entornos no estructurados y dinámicos para mantener el equilibrio, ascender a pendientes pronunciadas (hasta 35º), manejar pasos de paso de trincheras hasta 15 cm de ancho, agacharse para encajar bajo espacios reducidos (hasta 27 cm) y Operan a velocidades variables y velocidades de giro. Las capacidades de alta fuerza de Minitaur le permiten saltar sobre salientes (hasta 40cm) y a través de huecos (hasta 80cm). Su ancho de banda de control alto le permite balancear activamente en dos piernas, y la operación de alta velocidad permite que sus patas manipulen el mundo más rápido que el parpadeo de un ojo, mientras reaccionan hábilmente a un contacto inesperado.
-
-Sigue leyendo
-Ghost Minitaur (TM) altamente ágil Direct-Drive cuadrúpedo demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre.
-
-"Nuestro principal objetivo desde la liberación de la Minitaur a finales del año pasado ha sido ampliar sus comportamientos para atravesar una amplia gama de terrenos y escenarios operativos del mundo real", dijo Gavin Kenneally, y Avik De, cofundadores de Ghost Robotics. "En poco tiempo, hemos demostrado que los robots con patas no sólo tienen una movilidad de línea de base superior sobre ruedas y vías en una variedad de entornos y terrenos, sino que también exhiben un conjunto diverso de comportamientos que les permiten superar con facilidad los obstáculos naturales. Para impulsar el envoltorio con capacidades futuras, hardware mejorado, así como sensores integrados y autonomía ".
-
-Ghost Robotics está diseñando robots legged de última generación que son superiores a los vehículos autónomos rodados y seguidos en aplicaciones de campo del mundo real, al tiempo que reduce sustancialmente los costos para impulsar la adopción y las implementaciones escalables. Su tecnología de transmisión directa crea el modelo de menor costo con durabilidad para la comercialización de plataformas de sensor UGV de tamaño muy pequeño a mediano con cualquier diseño competitivo. La investigación subyacente de la compañía y la propiedad intelectual tienen aplicaciones adicionales en manipuladores ultra-precisos que son humanos-seguros, y la investigación avanzada de la marcha.
-
-Mientras que una versión comercial del robot Ghost Minitaur ™ está programada para ser entregada en el futuro, la plataforma de desarrollo actual está en alta demanda y ha sido enviada a muchos de los mejores investigadores de robótica de todo el mundo debido a su simplicidad de diseño, Una amplia gama de iniciativas de investigación y comercialización.
-
-"Estamos complacidos con nuestro progreso de I + D hacia la comercialización del Ghost Minitaur ™ para demostrar que los robots con patas pueden superar el desempeño de las UGVs de rueda y vía, manteniendo el modelo de costo bajo para apoyar la adopción de volumen, lo cual ciertamente no es el caso de los bipedales y cuadrúpedos existentes. Robots vendedores ", dijo Jiren Parikh, Ghost Robotics, CEO.
-
-En los próximos trimestres, la compañía planea demostrar mejoras en la movilidad, capacidades de manipulación incorporadas para interactuar con objetos en el mundo, integración con más sensores, autonomía integrada para el funcionamiento con intervención humana reducida, así como mayor robustez mecánica Y la durabilidad para la operación en ambientes ásperos.
-
-Acerca de Ghost Robotics
-
-Robots que sienten el mundo ™. Ghost Robotics desarrolla robots con patas pendientes de patente, ultra-rápidas y altamente sensibles (sin caja de cambios) para aplicaciones instantáneas y precisas de realimentación de fuerzas, ofreciendo una operatividad superior sobre los robots con ruedas y rastreados. La plataforma robótica Ghost Minitaur ™, ligera y de bajo costo, puede utilizarse como vehículo autónomo equipado con sensores para ISR, búsqueda y rescate, gestión de activos e inspección, exploración, aplicaciones científicas y militares donde desconocido, áspero, variado, peligroso, ambientalmente sensible E incluso el terreno vertical está presente. Ghost Robotics es privada y respaldada por la Universidad de Pensilvania y PCI Ventures con oficinas en Filadelfia. www.ghostrobotics.io
+____________________________________________________________
 
 
-Fuente: http://www.prnewswire.com/news-releases/ghost-minitaur-highly-agile-direct-drive-quadruped-demonstrates-why-legged-robots-are-far-superior-to-wheels-and-tracks-when-venturing-outdoors-300414820.html
+PUFFER: Un Nuevo Robot Scout
 
-Youtube: https://youtu.be/bnKOeMoibLg
+Robot o PUFFER de Explorador de Plegado Plano Pop-Up ha sido desarrollado por el Laboratorio de Propulsión a Chorro (JPL) de la NASA en Pasadena, California.
 
-Fecha: 01.03.2017
+Este dispositivo fue presentado por Jaakko Karras, quien es el gerente de proyecto de PUFFER en JPL, mientras estaba probando los diseños de origami. Karras y sus asociados pensaron en usar una placa de circuito impreso mientras creaban estos dispositivos.
+
+PUFFER incluye una estructura ligera y está hecha de tal manera que puede doblar sus ruedas, aplastarse y explorar lugares, a los que un típico rover no puede acceder.
+
+Características de PUFFER
+
+El robot scout ha sido probado bajo variadas condiciones accidentadas, empezando desde el desierto de Mojave en California hasta las planicies congeladas de la Antártida. Se puso a través de estas pruebas para asegurar su funcionalidad en todo tipo de terreno, ya sea cubierto de arena o cargado de nieve.
+
+Originalmente, este dispositivo consistía en cuatro ruedas, pero en la actualidad sólo tiene dos ruedas que son plegables. El plegado de la rueda sobre el cuerpo permite a la máquina rodar y gatear.
+
+También consiste en una cola que se hace para la estabilidad. El robot incluye un "microimagen", que es una cámara de alta resolución, y los paneles solares se colocan en el vientre del PUFFER. La máquina se vuelca cuando las pilas están agotadas.
+
+PUFFER puede subir hasta 45 pendientes de grado e incluso puede caer en los cráteres y hoyos ilesos. El robot es considerado un fuerte asistente para grandes dispositivos robóticos que serán enviados a Marte en el corto plazo.
+
+"Pueden hacer la ciencia paralela con un rover, por lo que puede aumentar la cantidad que está haciendo en un día. Podemos ver estos que se utilizan en lugares difíciles de alcanzar - por ejemplo, exprimiendo debajo de bordes", dijo Karras.
+
+Otro miembro del grupo PUFFER, Christine Fullera en JPL, dijo que el cuerpo y la electrónica de PUFFER implican una placa de circuito. No hay sujetadores que escalen o cualquier otra parte, que se unen a él. El robot tiene un cuerpo integrado.
+
+El equipo ha construido una muestra de PUFFER y ya ha comenzado a probarlo durante los últimos meses. Los funcionarios del proyecto PUFFER han dicho que este dispositivo aún no está listo. Planean dar al robot más autonomía incluyendo instrumentos científicos como el engranaje, que identifica las moléculas orgánicas que contienen carbono.
 
 
+Fuentes:  http://www.techtimes.com/articles/202711/20170323/nasa-testing-origami-inspired-robot-scout-for-exploring-mars.htm
+
+Youtube: https://youtu.be/nRmorQmGqVM
+
+fecha: 15.03.2017
 
 
 
