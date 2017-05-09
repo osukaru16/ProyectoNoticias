@@ -1,7 +1,7 @@
-﻿Titulo: Freaky Ostrich-como robot de ejecución construido para la "exploración planetaria" 
+﻿Titulo: Robot avestruz construido para la "exploración planetaria" //Freaky Ostrich-como robot de ejecución construido para la "exploración planetaria" 
 
 
-Puede parecerse a un avestruz galope sobre el suelo, pero el Planar Elliptical Runner podría convertirse en el modelo de un robot de tamaño humano - e incluso ayudar a "la exploración planetaria".
+Puede parecerse a un avestruz galope sobre el suelo, pero el Planar Elliptical Runner podría convertirse en el modelo de un robot de tamaño humano e incluso ayudar a "la exploración planetaria".
 
 Desarrollado por el Instituto de Cognición Humana y de Máquina (IHMC) en Pensacola, Florida, la locomoción fluida de la máquina ha hecho comparaciones con el ave sin vuelo.
 
