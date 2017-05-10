@@ -1,1 +1,7 @@
-css pc
+body{background-color:#8BADC7; color: #FFFFFF; }
+
+#contenedor{background-color:#5A7F9A; }
+
+#myCarousel{width:25%;}
+
+.thumbnail{ color: #000000; background-color: #C4DCEF;  }

@@ -1,4 +1,4 @@
-﻿Titulo: Ghost Minitaur ™ Altamente Agile Direct-Drive Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre
+﻿Titulo: Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre
 
 
 Ghost Robotics ha anunciado hoy que su Ghost Minitaur ™, con patente pendiente, ha sido actualizado con comportamientos reactivos avanzados para navegar la hierba, la roca, la arena, la nieve y los campos de hielo, los objetos urbanos Y escombros, y terreno vertical.
