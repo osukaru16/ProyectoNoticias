@@ -1,1 +1,27 @@
-css movil
+body{background-color:#8BADC7; color: #FFFFFF; font-size: 2em;}
+
+#cabecera{background-color:#183449; }
+
+
+#pie{background-color:#183449; }
+
+
+
+
+
+#contenedor{background-color:#5A7F9A; }
+
+#myCarousel{width:25%;}
+
+.thumbnail{ color: #000000; background-color: #C4DCEF;  }
+
+
+.btn{width: 100%}
+
+.btn:hover{font-size: 2rem; color: #FFFFFF; background-color: #8BADC7  }
+
+.fuentes{color:#FFE4AD;}
+
+.imgnoticia{text-align: center; }
+
+.imgnoticia img{width: 100%;}

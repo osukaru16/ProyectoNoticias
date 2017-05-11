@@ -1,6 +1,8 @@
 ﻿Titulo: Los legisladores llaman a detener el programa DARPA: Robots que reparan satélites
 
-Tres influyentes legisladores de la Cámara de Representantes han pedido a la DARPA en una carta del 25 de enero que revise un programa de reparación espacial robótica para ver si viola la Política Espacial Nacional al competir con esfuerzos del sector privado y poner el programa en espera hasta que se complete la revisión. . La Política Espacial Nacional requiere "que el gobierno no construya ni adquiera sistemas que" impidan, desalienten o compitan "con los sistemas comerciales. Orbital ATK está construyendo un sistema que cree que compite directamente con la iniciativa DARPA, conocida como Robotic Servicing of Geosynchronous Satellites.
+Tres influyentes legisladores de la Cámara de Representantes han pedido a la DARPA en una carta del 25 de enero que revise un programa de reparación espacial robótica para ver si viola la Política Espacial Nacional al competir con esfuerzos del sector privado y poner el programa en espera hasta que se complete la revisión. 
+
+La Política Espacial Nacional requiere "que el gobierno no construya ni adquiera sistemas que" impidan, desalienten o compitan "con los sistemas comerciales. Orbital ATK está construyendo un sistema que cree que compite directamente con la iniciativa DARPA, conocida como Robotic Servicing of Geosynchronous Satellites.
 
 Es un programa intrigante. El objetivo de DARPA es desarrollar sistemas robóticos que puedan arreglar satélites dañados a 22.000 millas de distancia. En palabras de la página web del programa, estaría diseñado para "hacer llamadas a domicilio en el espacio".
 

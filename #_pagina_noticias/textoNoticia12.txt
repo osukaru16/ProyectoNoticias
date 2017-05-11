@@ -1,5 +1,5 @@
 ﻿Titulo: Enfrentando la revolución robótica
-Pimienta se despierta. "Hola, soy un robot humanoide y tengo 1,2 metros de estatura, nací en Aldebarán, en París, puedes seguir preguntándome si quieres."
+Pepper se despierta. 'Hola, soy un robot humanoide y tengo 1,2 metros de estatura, nací en Aldebarán, en París, puedes seguir preguntándome si quieres.'
 
 Michael Szollosy, que estudia el impacto social y la influencia cultural de los robots, acaba de encender la nueva llegada al centro de Sheffield Robotics, en la Universidad de Sheffield.
 

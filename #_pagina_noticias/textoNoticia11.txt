@@ -1,7 +1,9 @@
 ﻿Titulo: Los implantes permiten una comunicación más rica para las personas con parálisis
 
 
-La novela de ciencia ficción de John Scalzi, Lock In, predice un futuro cercano donde las personas con parálisis corporal completa pueden vivir vidas significativas y auténticas gracias a los avances (ficticios) en las interfaces cerebro-computadora. Un nuevo estudio realizado por investigadores de la Universidad de Stanford podría ser el primer paso hacia esa realidad.
+La novela de ciencia ficción de John Scalzi, Lock In, predice un futuro cercano donde las personas con parálisis corporal completa pueden vivir vidas significativas y auténticas gracias a los avances (ficticios) en las interfaces cerebro-computadora. 
+
+Un nuevo estudio realizado por investigadores de la Universidad de Stanford podría ser el primer paso hacia esa realidad.
 
 El uso de interfaces cerebro-computadora (BCI) para ayudar a las personas con parálisis a comunicarse no es completamente nuevo. Pero conseguir que la gente lo use para tener una conversación compleja es. Los participantes de este estudio fueron capaces de dar salida a las palabras a una velocidad mucho más rápida y precisa que nunca registrada gracias a la técnica avanzada.
 
