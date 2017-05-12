@@ -6,22 +6,63 @@ body{background-color:#8BADC7; color: #FFFFFF; font-size: 2em;}
 #pie{background-color:#183449; }
 
 
-
+#pie_principal{background-color:#183449; display: none;}
 
 
 #contenedor{background-color:#5A7F9A; }
 
-#myCarousel{width:25%;}
+
+#divCarousel{background-color: #051624;}
+
+#myCarousel{width:100%;  margin: auto;}
+
+#marco{background-color:#183449; }
 
 .thumbnail{ color: #000000; background-color: #C4DCEF;  }
 
 
 .btn{width: 100%}
 
+
+#boton_carga{color: #000000;}
+
+
+#boton_carga:hover{color: #FFFFFF;}
+
 .btn:hover{font-size: 2rem; color: #FFFFFF; background-color: #8BADC7  }
 
 .fuentes{color:#FFE4AD;}
 
-.imgnoticia{text-align: center; }
+.imgnoticia{text-align: center;}
 
-.imgnoticia img{width: 100%;}
+.noticia_img{width: 100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
