@@ -1,32 +1,37 @@
 {"noticias":[
-	{"noticia5":[{"Titulo":"Según un nuevo estudio la actividad cerebral parece continuar después de la muerte","Noticia":"La actividad cerebral puede continuar durante más de 10 minutos después de que el cuerpo parece haber muerto, según un nuevo estudio.
+	{"noticia5":[{"Titulo":"Según un nuevo estudio la actividad cerebral parece continuar después de la muerte","Descipcion":"La actividad cerebral puede continuar durante más de 10 minutos después de que el cuerpo parece haber muerto, según un nuevo estudio.",
+	"Imagen":"../img/img_min/noticia5_min.jpg","Fecha":"10.03.2017"}]},
 
-Los médicos canadienses en una unidad de cuidados intensivos parecen haber observado el cerebro de una persona que continúa trabajando incluso después de que se declararan clínicamente muertos.
+	{"noticia6":[{"Titulo":"Los investigadores dan un paso hacia los robots controlados por la mente","Descipcion":"¿Y si tu amigo el robot pudiera decir lo que estás pensando, sin que digas una palabra?",
+	"Imagen":"../img/img_min/noticia6_min.jpg","Fecha":"08.03.2017"}]},
 
-En el caso, los médicos confirmaron que su paciente estaba muerto a través de una serie de observaciones normales, incluyendo la ausencia de un pulso y pupilas no reactivas. Pero las pruebas demostraron que el cerebro de los pacientes parecía seguir funcionando, experimentando el mismo tipo de ondas cerebrales que se ven durante el sueño profundo.
+	{"noticia7":[{"Titulo":"Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre","Descipcion":"Ghost Robotics ha anunciado hoy que su Ghost Minitaur ™, con patente pendiente, ha sido actualizado con comportamientos reactivos avanzados para navegar la hierba, la roca, la arena, la nieve y los campos de hielo, los objetos urbanos Y escombros, y terreno vertical.",
+	"Imagen":"../img/img_min/noticia7_min.jpg","Fecha":"01.03.2017"}]},
 
-En un estudio que señaló que los hallazgos podrían conducir a nuevos desafíos médicos y éticos, los médicos informaron que habían visto 'las ráfagas de una sola onda delta persistieron tras el cese del ritmo cardíaco y la presión arterial (ABP)'. Los resultados se informan en un nuevo estudio publicado por un equipo de la Universidad de Western Ontario.
+	{"noticia8":[{"Titulo":"Nuevo robot de Boston Dynamics: Introducing Handle","Descipcion":"Handle es un robot de investigación de pie de 6,5 pies de altura, viaja a 9 mph y salta 4 pies verticalmente. ",
+	"Imagen":"../img/img_min/noticia8_min.jpg","Fecha":"28.02.2017"}]},
 
-Sólo una de las cuatro personas estudiadas exhibió la actividad cerebral prolongada y misteriosa, con actividad en la mayoría de los pacientes muriendo antes de que su corazón dejara de latir. Pero todos sus cerebros se comportaron diferentes en los minutos que siguieron a su muerte, lo que agregó más misterio a lo que les sucede después de la muerte.
+	{"noticia9":[{"Titulo":"Los robots que buscan de los secretos del océano","Descipcion":"La gente ha estado explorando la Tierra desde tiempos antiguos: atravesando desiertos, escalando montañas y caminando por los bosques. Pero hay un reino ecológico que aún no ha sido bien explorado: los océanos.",
+	"Imagen":"../img/img_min/noticia9_min.jpg","Fecha":"23.02.2017"}]},
 
-Los doctores no saben cuál podría ser el propósito de la actividad y advirtieron de no extraer demasiadas conclusiones de una muestra tan pequeña. Pero escriben que es difícil pensar que la actividad fue el resultado de un error, dado que todo el equipo parecía estar funcionando bien.
+	{"noticia10":[{"Titulo":"Qué sucede cuando los robots se convierten en modelos de rol","Descipcion":"Cuando usted pasa mucho tiempo con alguien, sus características pueden surgir en usted. Pero, ¿qué sucede cuando ese alguien es un robot?",
+	"Imagen":"../img/img_min/noticia10_min.jpg","Fecha":"22.02.2017"}]},
 
-Los investigadores habían pensado previamente que casi toda la actividad cerebral terminó en una enorme oleada misteriosa alrededor de un minuto después de la muerte. Pero esos estudios se basaron en ratas - y la investigación no encontró ningún efecto comparable en los seres humanos.
+	{"noticia11":[{"Titulo":"Los implantes permiten una comunicación más rica para las personas con parálisis","Descipcion":"La novela de ciencia ficción de John Scalzi, Lock In, predice un futuro cercano donde las personas con parálisis corporal completa pueden vivir vidas significativas y auténticas gracias a los avances (ficticios) en las interfaces cerebro-computadora.",
+	"Imagen":"../img/img_min/noticia11_min.jpg","Fecha":"21.02.2017"}]},
 
-'No observamos una onda delta dentro de un minuto después de un paro cardíaco en cualquiera de nuestros cuatro pacientes', escriben en el nuevo estudio.
+	{"noticia12":[{"Titulo":"Enfrentando la revolución robótica","Descipcion":"Pepper se despierta. 'Hola, soy un robot humanoide y tengo 1,2 metros de estatura, nací en Aldebarán, en París, puedes seguir preguntándome si quieres.'",
+	"Imagen":"../img/img_min/noticia12_min.jpg","Fecha":"20.02.2017"}]},
 
-Lo que sucede con el cuerpo y la mente después de la muerte sigue siendo casi totalmente misterioso para los científicos. Otros dos estudios del año pasado, por ejemplo, demostraron que los genes parecían continuar funcionando - e incluso funcionar más enérgicamente - en los días posteriores a la muerte de las personas.
-",
-	"Imagen":"","Fecha":"10.03.2017"}]},
-	{"noticia6":[{"Titulo":"Los investigadores dan un paso hacia los robots controlados por la mente","Noticia":"","Imagen":"","Fecha":"08.03.2017"}]},
-	{"noticia7":[{"Titulo":"Quadruped Demuestra por qué Legged Robots son muy superiores a las ruedas y pistas cuando se aventuran al aire libre","Noticia":"","Imagen":"","Fecha":"01.03.2017"}]},
-	{"noticia8":[{"Titulo":"Nuevo robot de Boston Dynamics: Introducing Handle","Noticia":"","Imagen":"","Fecha":"28.02.2017"}]},
-	{"noticia9":[{"Titulo":"Los robots que buscan de los secretos del océano","Noticia":"","Imagen":"","Fecha":"23.02.2017"}]},
-	{"noticia10":[{"Titulo":"Qué sucede cuando los robots se convierten en modelos de rol","Noticia":"","Imagen":"","Fecha":"22.02.2017"}]},
-	{"noticia11":[{"Titulo":"Los implantes permiten una comunicación más rica para las personas con parálisis","Noticia":"","Imagen":"","Fecha":"21.02.2017"}]},
-	{"noticia12":[{"Titulo":"Enfrentando la revolución robótica","Noticia":"","Imagen":"","Fecha":"20.02.2017"}]},
-	{"noticia13":[{"Titulo":"La edad del BIONIC BODY","Noticia":"","Imagen":"","Fecha":"06.02.2017"}]},
-	{"noticia14":[{"Titulo":"Los cerdos dieron corazones robóticos en avance médico que podría salvar millones de vidas","Noticia":"","Imagen":"","Fecha":"27.01.2017"}]},
-	{"noticia15":[{"Titulo":"Los legisladores llaman a detener el programa DARPA: Robots que reparan satélites","Noticia":"","Imagen":"","Fecha":"25.01.2017"}]},
-	{"noticia16":[{"Titulo":"Fabricador robótico podría cambiar la forma en que se construyen los edificios","Noticia":"","Imagen":"","Fecha":"24.01.2017"}]}
+	{"noticia13":[{"Titulo":"La edad del BIONIC BODY","Descipcion":"Cuando el Hombre de los Seis Millones de Dólares salió por primera vez en los años setenta, con su astronauta gravemente herido siendo reconstruido con partes de la máquina, el programa de televisión parecía una fantasía exagerada.",
+	"Imagen":"../img/img_min/noticia13_min.jpg","Fecha":"06.02.2017"}]},
+
+	{"noticia14":[{"Titulo":"Los cerdos dieron corazones robóticos en avance médico que podría salvar millones de vidas","Descipcion":"Los investigadores han desarrollado una suave manga robótica que se tuerce y se comprime en sincronía con un corazón para ayudar a las personas que tienen corazones más débiles.",
+	"Imagen":"../img/img_min/noticia14_min.jpg","Fecha":"27.01.2017"}]},
+
+	{"noticia15":[{"Titulo":"Los legisladores llaman a detener el programa DARPA: Robots que reparan satélites","Descipcion":"Tres influyentes legisladores de la Cámara de Representantes han pedido a la DARPA en una carta del 25 de enero que revise un programa de reparación espacial robótica para ver si viola la Política Espacial Nacional al competir con esfuerzos del sector privado y poner el programa en espera hasta que se complete la revisión.",
+	"Imagen":"../img/img_min/noticia15_min.jpg","Fecha":"25.01.2017"}]},
+
+	{"noticia16":[{"Titulo":"Fabricador robótico podría cambiar la forma en que se construyen los edificios","Descipcion":"Un robot de construcción tiene que ser lo suficientemente potente como para manejar material pesado, lo suficientemente pequeño para entrar en edificios estándar, y lo suficientemente flexible como para navegar por el terreno.",
+	"Imagen":"../img/img_min/noticia15_min.jpg","Fecha":"24.01.2017"}]}
 ]}

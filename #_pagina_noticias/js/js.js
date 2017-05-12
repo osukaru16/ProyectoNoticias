@@ -42,7 +42,7 @@ function pintar(json){
 function masCarga(){
 	alert("Miau");
 
-	$(#nuevoContenido).text("Miau");
+	//$(#nuevoContenido).text("Miau");
 }
 
 
