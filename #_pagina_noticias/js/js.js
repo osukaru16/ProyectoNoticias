@@ -1,6 +1,18 @@
 
+var contador;
+var posicion;
+var desplegar;
 
-//window.onload = function(){}
+
+
+window.onload = function(){
+
+
+
+	contador=4;
+	posicion=5;
+	desplegar=true;
+}
 
 
 
@@ -17,21 +29,49 @@
 // cargar json
 function cargaJ1(){
 
-$.getJSON( "json/json1.json", function( jsonObject ) {
+if(desplegar){
+$.getJSON( "json/json1v2.json", function( jsonObject ) {
   //en aquest punt l'objecte jsonObject correspon al fitxer
   pintar( jsonObject );
 });
 
 function pintar(json){
- $.each( json, function( i, empleado ) {
-  $("#out").append( "<li id='" + i + "'>" + empleado.firstName+ " " + empleado.lastName + "</li>" );
+	$.each( json, function( key, val ) {
+$("#nuevoContenido").append("<div id='div_"+key+"' class='col-sm-5'> <div id='noticia3"+contador+"' class='col-sm-8' ><div class='thumbnail'>");
+
+
+  $("#nuevoContenido").append( "<p id='" + key+ "'>" + val.Titulo+"</p>" );
+  // posicion++;
+
+
+
+$("#nuevoContenido").append("</div></div></div>");
+
+
+   if(key == 11){desplegar=false;}
+
  });
+
+
 }
 
 }
 
+}
 
 
+
+
+/*
+function posicionar(numero){
+	if(numero%2 ==0){
+		$("#nuevoContenido").append("<div id='div_izquierda"+contador+"' class='col-sm-5'>");
+	}
+	else{
+
+	}
+}
+*/
 
 
 
@@ -40,7 +80,9 @@ function pintar(json){
 
 
 function masCarga(){
-	alert("Miau");
+	//alert("Miau");
+
+	cargaJ1();
 
 	//$(#nuevoContenido).text("Miau");
 }
