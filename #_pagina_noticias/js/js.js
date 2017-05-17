@@ -3,12 +3,9 @@ var contador;
 var posicion;
 var desplegar;
 
-
+window.test = "prueba";
 
 window.onload = function(){
-
-
-
 	contador=1;
 	posicion=5;
 	desplegar=true;
@@ -20,20 +17,6 @@ window.onload = function(){
 
 
 
-
-
-
-
-
-
-// cargar json
-function cargaJ1(){
-
-if(desplegar){
-$.getJSON( "json/json1v2.json", function( jsonObject ) {
-  //en aquest punt l'objecte jsonObject correspon al fitxer
-  pintar( jsonObject );
-});
 
 function pintar(json){
 	$.each( json, function( key, val ) {
@@ -52,32 +35,127 @@ $("#thumbnail"+posicion).append("<button class='btn' data-toggle='modal' data-ta
 
 
  
-  posicion++;
+
+ posicion++;
 
 
-
-   if(key == 11){
+if(key == 3){
    	desplegar=false;
 
-$("#contenedor_boton_carga").css("display","none");
+//$("#contenedor_boton_carga").css("display","none");
 
 
-$("#pie_principal").css("display","block");
+//$("#pie_principal").css("display","block");
 
-
-
-
-
-   }
+}
 
  });
 
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// cargar json
+function cargaJ1(){
+
+if(desplegar){
+$.getJSON( "json/json1.json", function( jsonObject ) {
+  //en aquest punt l'objecte jsonObject correspon al fitxer
+  pintar( jsonObject );
+});
+
+
+
 }
 
 }
+
+
+
+
+
+
+
+// cargar json
+function cargaJ2(){
+
+if(desplegar){
+$.getJSON( "json/json2.json", function( jsonObject ) {
+  //en aquest punt l'objecte jsonObject correspon al fitxer
+  pintar( jsonObject );
+});
+
+
+}
+
+}
+
+
+
+
+
+
+
+// cargar json
+function cargaJ3(){
+
+if(desplegar){
+$.getJSON( "json/json3.json", function( jsonObject ) {
+  //en aquest punt l'objecte jsonObject correspon al fitxer
+  pintar( jsonObject );
+});
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -102,8 +180,25 @@ function posicionar(numero){
 function masCarga(){
 	//alert("Miau");
 
-	cargaJ1();
+	if (contador ==1){
+		desplegar=true;
+		cargaJ1();
+		
+	}
+	else if(contador==2){
+		desplegar=true;
+		cargaJ2();
+		
+	}
+	else if(contador==3){
+		desplegar=true;
+		cargaJ3();
+		$("#contenedor_boton_carga").css("display","none");
+		$("#pie_principal").css("display","block");
+		
+	}	
 
+	contador++;
 	//$(#nuevoContenido).text("Miau");
 }
 
@@ -199,7 +294,7 @@ function cargaNoticia(posicion){
 
 alert("Cargar noticia "+posicion);
 
-
+localStorage.setItem("nombre","prueba");
 /*
 $.post("noticias/noticias_extra.html",
 {

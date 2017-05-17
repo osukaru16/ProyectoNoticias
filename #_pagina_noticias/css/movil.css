@@ -44,6 +44,17 @@ body{background-color:#8BADC7; color: #FFFFFF; font-size: 2em;}
 
 
 
+#cabecera_link{ text-decoration:none; color: #FFFFFF;}  
+#cabecera_link:hover{ text-decoration:none; color: #FFFFFF;}   
+#cabecera_link:link{ text-decoration:none; color: #FFFFFF;} 
+#cabecera_link:visited{ text-decoration:none; color: #FFFFFF;} 
+
+
+
+
+
+
+
 
 
 

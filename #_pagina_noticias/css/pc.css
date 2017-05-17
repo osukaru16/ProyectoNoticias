@@ -50,3 +50,37 @@ body{background-color:#8BADC7; color: #FFFFFF;}
 #cabecera_link:visited{ text-decoration:none; color: #FFFFFF;} 
 
 
+
+
+.item{
+	width: 100%;
+	height: 350px;
+}
+
+.imagen1{
+	background-image: url("../img/img_carr/noticia1_carr.jpg");
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.imagen2{
+	background-image: url("../img/img_carr/noticia2_carr.jpg");
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.imagen3{
+	background-image: url("../img/img_carr/noticia3_carr.jpg");
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.imagen4{
+	background-image: url("../img/img_carr/noticia4_carr.jpg");
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
