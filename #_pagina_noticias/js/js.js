@@ -294,7 +294,9 @@ function cargaNoticia(posicion){
 
 alert("Cargar noticia "+posicion);
 
-localStorage.setItem("nombre","prueba");
+localStorage.setItem("titulo",valorr);
+localStorage.setItem();
+
 /*
 $.post("noticias/noticias_extra.html",
 {
