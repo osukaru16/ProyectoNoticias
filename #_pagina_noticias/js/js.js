@@ -3,12 +3,18 @@ var contador;
 var posicion;
 var desplegar;
 
+var rowContador;
+var rowPosicion;
+
+
 window.test = "prueba";
 
 window.onload = function(){
 	contador=1;
 	posicion=5;
 	desplegar=true;
+	rowPosicion=0;
+	rowContador=0;
 }
 
 
@@ -23,8 +29,16 @@ function pintar(json){
 
 
 //$("#nuevoContenido").append("<div id='div_pos'"+posicion+" class='col-sm-5'></div>");
-$("#nuevoContenido").append("<div id='box_"+posicion+"' class='col-sm-5'></div>");
-$("#box_"+posicion).append("<div id='noticia"+posicion+"' class='col-sm-8'></div>");
+if(rowContador == 2){
+	rowPosicion++;
+	$("#nuevoContenido").append("<div id='nuevoContenido"+rowPosicion+"' class='row'></div>");
+	rowContador=0;
+
+}
+
+
+$("#nuevoContenido"+rowPosicion).append("<div id='box_"+posicion+"' class='col-sm-4'></div>");
+$("#box_"+posicion).append("<div id='noticia"+posicion+"' class='col-sm-12'></div>");
 $("#noticia"+posicion).append("<div id='thumbnail"+posicion+"' class='thumbnail'></div>");
 $("#thumbnail"+posicion).append("<img src='"+val.Imagen+"' alt='noticia"+posicion+"' /> ");
 $("#thumbnail"+posicion).append("<p id='fecha"+posicion+ "'>" + val.Fecha+"</p>");
@@ -37,7 +51,7 @@ $("#thumbnail"+posicion).append("<button class='btn' data-toggle='modal' data-ta
  
 
  posicion++;
-
+rowContador++;
 
 if(key == 3){
    	desplegar=false;
@@ -294,7 +308,7 @@ function cargaNoticia(posicion){
 
 alert("Cargar noticia "+posicion);
 
-//localStorage.setItem("titulo","valorr");
+//localStorage.setItem("titulo",valorr);
 //localStorage.setItem();
 
 /*

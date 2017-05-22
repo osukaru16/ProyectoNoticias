@@ -21,8 +21,20 @@ body{background-color:#8BADC7; color: #FFFFFF;}
 
 #marco{background-color:#183449; }
 
-.thumbnail{ color: #000000; background-color: #C4DCEF; }
+.thumbnail{ color: #000000; background-color: #C4DCEF;  padding-top: 5%;
+height: 300px; overflow: hidden;
+}
+.thumbnail:hover{height: 100%;}
+
 .thumbnail,p{padding-left: 2%; padding-right: 2%;}
+
+
+/*.noticiasText{  height: 100px; overflow: hidden;
+}
+
+.noticiasText:hover{height: 100%;}*/
+
+
 
 .btn{width: 100%;}
 
@@ -56,6 +68,9 @@ body{background-color:#8BADC7; color: #FFFFFF;}
 
 
 .col-sm-5{height: 600px;}
+
+
+#anuncios{width: 300px;}
 
 
 
