@@ -56,14 +56,23 @@ body{background-color:#5A7F9A; color: #FFFFFF; font-size: 2em;}
 
 
 
+#anuciosPanel{display: none;}
 
 
 
 
+#anunciosMovil{display: block; position: fixed; bottom: 0; float: left; background-color: #FFFFFF;}
+
+
+#anunciosMovil1{float: left; }
 
 
 
 
+/*
+#anunciosMovil2{float: left;}
+
+*/
 
 
 

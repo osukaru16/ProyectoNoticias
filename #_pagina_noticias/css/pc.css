@@ -70,11 +70,11 @@ height: 300px; overflow: hidden;
 .col-sm-5{height: 600px;}
 
 
-#anuncios{width: 300px;}
+#anuncios{width: 300px; display: block;}
 
 
 
-
+#anunciosMovil{display: none;}
 
 
 
