@@ -1,0 +1,90 @@
+body{background-color:#5A7F9A; color: #FFFFFF; font-size: 2em;}
+
+#cabecera{background-color:#183449; }
+
+
+#pie{background-color:#183449; }
+
+
+#pie_principal{background-color:#183449; display: none;}
+
+
+#contenedor{background-color:#5A7F9A; }
+
+
+#divCarousel{background-color: #051624;}
+
+#myCarousel{width:100%;  margin: auto;}
+
+.item,img{margin: auto;}
+
+#marco{background-color:#183449; }
+
+.thumbnail{ color: #000000; background-color: #C4DCEF;  }
+
+
+.btn{width: 100%}
+
+
+#boton_carga{color: #000000;}
+
+
+#boton_carga:hover{color: #FFFFFF;}
+
+.btn:hover{font-size: 2rem; color: #FFFFFF; background-color: #8BADC7  }
+
+.fuentes{color:#FFE4AD;}
+
+.imgnoticia{text-align: center;}
+
+.noticia_img{width: 100%;}
+
+
+
+
+
+
+
+
+#cabecera_link{ text-decoration:none; color: #FFFFFF;}  
+#cabecera_link:hover{ text-decoration:none; color: #FFFFFF;}   
+#cabecera_link:link{ text-decoration:none; color: #FFFFFF;} 
+#cabecera_link:visited{ text-decoration:none; color: #FFFFFF;} 
+
+
+
+
+
+
+#anuciosPanel{display: none;}
+
+
+
+
+#anunciosMovil{display: block; position: fixed; bottom: 0; float: left; background-color: #FFFFFF;}
+
+
+#anunciosMovil1{float: left; }
+
+
+
+
+/*
+#anunciosMovil2{float: left;}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
