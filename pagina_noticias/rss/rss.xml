@@ -3,12 +3,12 @@
 
 <channel>
  <title><![CDATA[Proyecto 2045]]></title>
- <link><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias]]></link>
+ <link><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias]]></link>
  <description><![CDATA[Noticias de tecnologias para ir desarrollando el proyecto 2045]]></description>
  <image>
  	<title><![CDATA[Proyecto 2045]]></title>
- 	<url><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias/img/img_rss/rss.png]]></url>
- 	<link><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias]]></link>
+ 	<url><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias/img/img_rss/rss.png]]></url>
+ 	<link><![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias]]></link>
  	<description><![CDATA[Noticias de tecnologias para ir desarrollando el proyecto 2045]]></description>
  </image>
 
@@ -17,7 +17,7 @@
   	<![CDATA[ Robot avestruz construido para la exploración planetaria]]>
   </title>
   <link>
-  	<![CDATA[ https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias/noticias/noticia1.html]]>
+  	<![CDATA[ https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias/noticias/noticia1.html]]>
   </link>
   <description>
   	<![CDATA[ Puede parecerse a un avestruz galope sobre el suelo, pero el Planar Elliptical Runner podría convertirse en el modelo de un robot de tamaño humano e incluso ayudar a "la exploración planetaria".]]>
@@ -31,7 +31,7 @@
  		<![CDATA[ La mano biónica que puede ver por sí misma]]>
  	</title>
  	<link>
- 		<![CDATA[ https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias/noticias/noticia2.html]]>
+ 		<![CDATA[ https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias/noticias/noticia2.html]]>
  	</link>
  	<description>
 		<![CDATA[Una mano artificial está utilizando la inteligencia artificial para ver con un ojo artificial. La nueva prótesis puede elegir la mejor forma de agarrar objetos colocados delante de ella automáticamente, lo que facilita su uso.]]>
@@ -48,7 +48,7 @@
 		<![CDATA[ Lo que los humanos se verán en 1.000 años]]>
 	</title>
 	<link>
-		<![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias/noticias/noticia3.html]]>
+		<![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias/noticias/noticia3.html]]>
 	</link>
 	<description><![CDATA[Los seres humanos todavía están evolucionando, Entonces, ¿dónde nos llevará la evolución en 1.000 años?
 Lo más probable es que seremos más altos. Los seres humanos ya han visto un auge de la altura en los últimos 130 años.]]>
@@ -66,7 +66,7 @@ Lo más probable es que seremos más altos. Los seres humanos ya han visto un au
 		<![CDATA[ La NASA crea un Rover explorador inspirado en Origami]]>
 	</title>
 	<link>
-		<![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/%23_pagina_noticias/noticias/noticia4.html]]>
+		<![CDATA[https://rawgit.com/osukaru16/ProyectoNoticias/master/pagina_noticias/noticias/noticia4.html]]>
 	</link>
 	<description>
 		<![CDATA[La NASA ha comenzado a probar un robot explorador inspirado en origami que se utilizará para explorar la superficie marciana.
