@@ -40,7 +40,7 @@ if(rowContador == 2){
 $("#nuevoContenido"+rowPosicion).append("<div id='box_"+posicion+"' class='col-sm-4'></div>");
 $("#box_"+posicion).append("<div id='noticia"+posicion+"' class='col-sm-12'></div>");
 $("#noticia"+posicion).append("<div id='thumbnail"+posicion+"' class='thumbnail'></div>");
-$("#thumbnail"+posicion).append("<img src='"+val.Imagen+"' alt='noticia"+posicion+"' /> ");
+$("#thumbnail"+posicion).append("<p><img src='"+val.Imagen+"' alt='noticia"+posicion+"' /> </p>");
 $("#thumbnail"+posicion).append("<p id='fecha"+posicion+ "'>" + val.Fecha+"</p>");
 $("#thumbnail"+posicion).append("<p id='titulo"+posicion+ "'> <strong>"+ val.Titulo+"</strong></p>");
 $("#thumbnail"+posicion).append("<p id='descripcion"+posicion+ "'>" + val.Descipcion+"</p>");

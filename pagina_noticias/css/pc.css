@@ -1,4 +1,4 @@
-body{background-color:#8BADC7; color: #FFFFFF;}
+body{background-color:#8BADC7; color: #FFFFFF; }
 
 #cabecera{background-color:#183449; }
 
@@ -21,13 +21,14 @@ body{background-color:#8BADC7; color: #FFFFFF;}
 
 #marco{background-color:#183449; }
 
-.thumbnail{ color: #000000; background-color: #C4DCEF;  padding-top: 5%;
-height: 300px; overflow: hidden;
+.thumbnail{ color: #000000; background-color: #C4DCEF;  padding-top: 5%; 
+height: 300px; overflow: hidden; border-radius: 10px; transition: height 0.5s
 }
-.thumbnail:hover{height: 100%;}
+.thumbnail:hover{height: 100%; ;}
 
-.thumbnail,p{padding-left: 2%; padding-right: 2%;}
+.thumbnail p{padding-left: 2%; padding-right: 2%;}
 
+.thumbnail p img{width: 100%; height: 200px;}
 
 /*.noticiasText{  height: 100px; overflow: hidden;
 }
