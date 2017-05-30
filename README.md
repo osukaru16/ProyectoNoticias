@@ -12,7 +12,7 @@ La publicidad que sale es de mi tienda de zazzle llamada otakushop. [tienda otak
 
 El RSS valida.
 
-La pagina tiene 4 noicias precargadas y hace 3 cargas de 4 notocias al bajar el scroll o usando el boton. Usa 3 json.
+La pagina tiene 4 noticias precargadas y hace 3 cargas de 4 notocias al bajar el scroll o usando el boton. Usa 3 json.
 
 Tiene los meta de facebook.
 
