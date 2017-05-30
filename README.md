@@ -1,6 +1,6 @@
 # ProyectoNoticias
 
-#_pagina_noticias es la vesion de desarrollo incompleta la completa es la que no tiene #_
+>#_pagina_noticias es la vesion de desarrollo incompleta la completa es la que no tiene #_
 
 pagina_noticas version terminada. Caracteristica:
 
