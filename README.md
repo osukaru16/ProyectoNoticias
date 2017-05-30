@@ -18,4 +18,4 @@ Nota: la mayoria de pruebas han sido hechas en firefox y es posibli que en Chrom
 
 
 Diseño de la pagina en la libreta.
-Format: ![Alt Text](diseño.jpg)
+[Diseño](diseño.jpg)
