@@ -5,6 +5,7 @@
 pagina_noticas version terminada. Caracteristica:
 
 La publicidad que sale es de mi tienda de zazzle llamada otakushop.
+[tienda otakushop](https://www.zazzle.es/s/otakushop)
 
 Nota: la mayoria de pruebas han sido hechas en firefox y es posibli que en Chrome tenga algunos fallos. 
 
